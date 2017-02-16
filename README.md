@@ -18,3 +18,5 @@ https://www.cs.uic.edu/~liub/FBS/fake-reviews.html
 http://bsdetector.tech/
 
 https://github.com/bs-detector/bs-detector
+
+http://lit.eecs.umich.edu/~deceptiondetection/
