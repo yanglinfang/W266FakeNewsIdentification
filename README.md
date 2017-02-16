@@ -14,3 +14,7 @@ https://github.com/BuzzFeedNews/2016-10-facebook-fact-check
 https://www.kaggle.com/mrisdal/fake-news
 
 https://www.cs.uic.edu/~liub/FBS/fake-reviews.html
+
+http://bsdetector.tech/
+
+https://github.com/bs-detector/bs-detector
