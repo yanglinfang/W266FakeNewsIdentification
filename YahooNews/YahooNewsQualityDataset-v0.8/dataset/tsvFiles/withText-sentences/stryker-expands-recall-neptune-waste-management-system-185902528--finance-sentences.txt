@@ -1,0 +1,6 @@
+Stryker expands recall of Neptune waste management system	1	1	2		4
+(Reuters) - Stryker Corp said on Tuesday it expanded the recall of its Neptune waste management product line to include later versions because U.S. health authorities have advised the company that these devices do not have proper regulatory clearance.	1	1	2		4
+In June, the company issued a Class 1 recall, the most serious type, of its Neptune waste system after receiving two reports of serious injury and a fatality resulting from the use of the product.	1	1	3		4
+The company also notified customers that it was recalling the instructions for use because they did not specifically warn against connecting the high vacuum/high flow device to a passive drainage tube.	1	1	1		4
+In a press release, Stryker, a maker of hospital beds and orthopedic implants, said the U.S. Food and Drug Administration is unable to determine whether these last-generation devices are as safe and effective as their legally marketed predecessor, the Neptune 1.	1	1	2		4
+(Reporting By Debra Sherman; Editing by Gerald E. McCormick)				I	4

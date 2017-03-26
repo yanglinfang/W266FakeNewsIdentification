@@ -1,0 +1,8 @@
+Judge lifts US ban on sales of Samsung tablet	1	2	1		4
+SAN JOSE, Calif.				I 	4
+(AP) — A federal judge has lifted a ban on sales of Samsung Electronics Corp.'s Galaxy 10.1 tablet computer.	1	2	1		4
+U.S. District Judge Lucy Koh ruled Monday the South Korean technology giant is now free to start selling the product in American stores.	1	2	1		4
+The judge had previously banned U.S. sales of the tablet pending the resolution of a sweeping patent trial between Apple Inc. and Samsung over vital technology used in smartphones and tablet computers.	2	1	2		4
+A jury in September ordered Samsung to pay Apple $1 billion after finding many of Samsung's products illegally used technology developed by Apple for its iPhones and iPads.	1	1	3		4
+But the jury found that Samsung's Galaxy 10.1 wasn't one of the offending products.	1	2	1		4
+The judge scheduled a December hearing to consider Samsung's demand for a new trial.	1	1	1		4

@@ -1,0 +1,21 @@
+Twitter CEO: Apple is our Mentor, Facebook our Opposite	1	1	1		4
+Twitter CEO Dick Costolo, fresh from a day of smartphone Twitter app releases, said Tuesday night that his company saw Apple as a "mentor" to Twitter.	3	1	1		4
+"Apple is in many ways a mentor company for us," Costolo told PBS interviewer Charlie Rose.	3	1	1		4
+He said the companies had "a great relationship."	3	2	1		4
+Facebook, by contrast, got this chilly description: "We're very different companies."	3	1	2		4
+[More from Mashable: New Twitter: How to Unite Your Avatar and Header Image [VIDEO]]				I	4
+Facebook was pursuing symmetric networks, Costolo said, but Twitter saw the world as asymmetric.	2	1	1		4
+They were fundamentally opposed, and competed for ad dollars.	2	1	2		4
+He also spoke of Twitter needing to have control over its own user experience.	2	1	1		4
+This was on the day that Twitter unified its experience across iPhone, iPad and the website (and produced an Android app that seemed to us more of an afterthought).	3	1	1		4
+[More from Mashable: What Twitter’s New Apps Mean For Developers]				I	4
+"We'll see how it evolves," was Costolo's judgment of Android.	2	1	1		4
+(He also said Twitter saw itself primarily as a mobile company -- taken together, an implicit endorsement of the iOS platform.)	3	1	1		4
+This year has seen Twitter abruptly shut off API access to an increasing number of companies.	2	1	1		4
+It has also seen Twitter deeply integrate into Apple's Mountain Lion and iOS6 systems -- ahead of Facebook integration.	2	1	1		4
+The interview gave us a lot of context on how Twitter sees itself, and what developers who depend on the company can expect.	3	1	1		4
+Costolo clearly stated he wanted a large ecosystem (just as Apple has), but hinted at one that was very strictly and centrally controlled (much like Apple's).	3	1	1		4
+What does this mean for the future of Twitter?	1	1	1		4
+Will Apple become ever more integrated, and vice-versa?	1	1	1		4
+Give us your predictions in the comments.	3 	1	1		4
+This story originally published on Mashable here.				I	4

@@ -1,0 +1,22 @@
+Avian malaria spreads north into interior Alaska: study	1	1	2		4
+ANCHORAGE, Alaska (Reuters) - Malaria is infecting birds as far north as Alaska's interior, and a rapidly warming climate may be the reason the mosquito-borne disease appears to be advancing northward, a new study shows.	1	1	2		4
+It is the first time scientists have detected the transmission of avian malaria in local birds at such far-north latitudes anywhere in North America, said the study, published on Wednesday in the scientific journal PLOS One.	1	1	1		4
+"We now have shown that malaria is being transmitted in Alaska," said Ravinder Sehgal, a San Francisco State University biologist and a lead researcher on the project.	2	1	1		4
+While tropical birds that migrate to Alaska in the summer are known to carry the disease, there had never been any documented cases of it spreading to non-migratory Alaska birds or birds newly hatched in Alaska that had not yet flown south, Sehgal said.	1	1	1		4
+Longer periods of warm weather in the summer may be allowing the malaria parasite to thrive in Alaska and be transmitted by mosquitoes, Sehgal said.	1	1	1		4
+"The question was, how far north is it getting, and is it going to get to birds that have never expressed it?" he said.	1	1	1		4
+The study notes that temperatures have been increasing in the Arctic at almost twice the average global rate, and that the warming climate has changed vegetation in the far north.	1	1	2		4
+The study evaluated blood samples taken last year from birds in Anchorage, Fairbanks and Coldfoot, a community north of the Arctic Circle.	1	1	1		4
+The researchers found avian malaria in resident and hatch-year birds in Anchorage and Fairbanks, though not as far north as Coldfoot.	1	1	1		4
+Of 676 birds tested, 7.2 percent were found to be infected.	1	1	2		4
+Some of the hardest-hit birds were black-capped chickadees, Sehgal said.	2	1	2		4
+Of the black-capped chickadees tested in Anchorage, about 30 percent were infected.	1	1	2		4
+Further studies are underway to try to determine what type of mosquito might be spreading the disease, Sehgal said.	1	1	2		4
+It is unclear what effect avian malaria might have on the Alaska birds.	2	1	1		4
+For some species elsewhere, malaria transmissions are devastating, Sehgal said.	2	1	3		4
+Penguins, which have no natural defenses against malaria, die when they are infected in zoos, he said.	1	1	3		4
+Malaria also has seriously damaged bird populations in Hawaii, where non-native mosquitoes have been introduced to the habitat.	1	1	3		4
+But Alaskans need not fear for their health, Sehgal said.	2	2	1		4
+The study detected only avian malaria, which is different from the type of malaria that afflicts mammals.	1	1	1		4
+"Certainly, it is not going to spread to humans," he said.	2	2	1		4
+(Editing by Cynthia Johnston and Xavier Briand)				I	4

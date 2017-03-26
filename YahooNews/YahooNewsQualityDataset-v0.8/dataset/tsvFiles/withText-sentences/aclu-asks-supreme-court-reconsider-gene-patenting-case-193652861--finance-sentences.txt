@@ -1,0 +1,16 @@
+ACLU asks Supreme Court to reconsider gene patenting case	1	1	1		4
+(Reuters) - The American Civil Liberties Union has asked for a second time that the Supreme Court invalidate Myriad Genetics Inc's patents on two genes associated with hereditary breast and ovarian cancers, the latest salvo in a case with broad consequences for the future of gene-based medicine.				i	4
+The lawsuit against Myriad and the University of Utah Research Foundation, which hold patents that allow the company to control testing for the genes, alleges that the patents are illegal and restrict scientific research and patients' access to medical care.				i	4
+The lawsuit was filed by the ACLU and the Public Patent Foundation on behalf of medical associations, geneticists, patients and breast cancer and women's health groups, the ACLU said on Tuesday.	1	1	1		4
+The Supreme Court had sent back the ACLU's previous lawsuit to the U.S. Federal Court of Appeals in Washington, D.C.	1	1	1		4
+It asked the appeals court to reconsider an earlier decision upholding the patents in light of a March decision by the high court that rejected a similar case about a patented method for monitoring a patient's blood.	1	1	2		4
+However by a 2-1 vote, the appeals court in August again ruled that companies can obtain patents on genes.	1	1	1		4
+The Supreme Court is not required to take up the case and will likely first give Myriad a chance to respond before deciding whether to hear the case or let the appeals court ruling stand.	1	1	1		4
+"In our view, the court of appeals did not fully consider or correctly apply the Supreme Court's most recent and relevant patent law decisions," ACLU attorney Chris Hansen said in a statement.	3	1	1		4
+Myriad did not immediately return calls seeking comment on the ACLU action.	1	1	1		4
+The genes in question, known as BRCA1 and BRCA2, can be used to detect risk of breast and ovarian cancer and to help inform treatment options.	1	3	1		4
+Women who test positive using Myriad's gene test, called BRACAnalysis, have an 82 percent higher risk of developing breast cancer and a 44 percent higher risk of ovarian cancer in their lifetimes.	1	1	3		4
+The patents give Myriad exclusive rights to perform tests on the two genes.	1	1	1		4
+The ACLU suit argues that the exclusivity allows Myriad to set the cost of such testing and makes it impossible for women to access tests that provide more comprehensive information about their genes or get a second opinion about their results.	1	1	2		4
+It also claims that it prevents researchers from even looking at the genes without first getting permission from Myriad.	2	1	2		4
+(Reporting by Bill Berkrot and Jonathan Stempel; Editing by Richard Chang)				i	4

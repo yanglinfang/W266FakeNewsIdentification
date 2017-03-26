@@ -1,0 +1,41 @@
+Endeavour lands at LA airport after aerial tour	1	2	1		5
+LOS ANGELES (AP) — Space shuttle Endeavour landed safely at the Los Angeles International Airport Friday after a whirlwind aerial tour around California landmarks.	2	3	1		5
+Strapped to the back of a 747 jumbo jet, the pair touched down around 1 p.m. after a nearly five-hour flyover.	1	1	1		5
+One of the crew members stuck an American flag out of the hatch of the jet.	1	2	1		5
+The flyover took Endeavour over the state Capitol, Golden Gate Bridge, Hollywood Sign and other icons en route to the Los Angeles airport, where the shuttle will be prepped for a slow-speed journey to its museum home next month.	2	3	1		5
+At the Santa Monica Pier, spectators pointed their cameras skyward and some chanted, "USA!	2	4	1		5
+USA!" as Endeavour swooped along the coast.				s	5
+"Even though it was a few seconds, it was a unique experience to witness history," said Andrew Lerner, 23, of Santa Monica.	2	4	1		5
+Thousands of spectators jammed rooftop buildings and streets in Sacramento, cheering as Endeavour made two loops around the state Capitol.	2	3	1		5
+A crowd of schoolchildren squealed in delight during the second flyover.	2	3	1		5
+Matthew Montgomery took a break from his work as a legislative aide and brought his 2-year-old son, Tavion, to see Endeavour airborne.	2	2	1		5
+"I was going to leave him in daycare but thought this is a once-in-a-lifetime deal," said Montgomery, whose aunt was an engineer on the early Apollo missions.	2	3	1		5
+Since Endeavour buzzed by some of the Golden State's most iconic sights, law enforcement and transportation authorities warned motorists not to "gawk and drive."	2	3	2		5
+"We want people to take in this majestic show," Los Angeles police Cmdr.	2	3	1		5
+Scott Kroeber said earlier this week.				S	5
+"But if you're driving, please drive and don't try to take in the show simultaneously."	2	2	2		5
+Traffic came to a near stop along a freeway near the NASA Jet Propulsion Laboratory east of Los Angeles when motorists pulled off to the shoulder to watch.	1	2	2		5
+California Highway Patrol officers came through and blared on loud speakers for people to move on.	1	1	2		5
+Extra officers were on duty along the freeways near the airport to make sure traffic flowed smoothly as the shuttle zoomed overhead.	2	2	1		5
+Endeavour returned to its birthplace Thursday after an emotional cross-country ferry flight that made a special flyover of Tucson, Ariz., to honor its last commander, Mark Kelly, and his wife, former Arizona Rep. Gabrielle Giffords.	2	4	1		5
+NASA's shuttle fleet, which retired last year after three decades of flight, was assembled in Palmdale near Edwards Air Force Base where Endeavour took off Friday morning for the aerial tour.	1	2	1		5
+The military outpost 100 miles north of Los Angeles served as the original shuttle landing strip and remained a backup site in case of stormy weather at Cape Canaveral, Fla.	1	1	1		5
+"We're so excited to be welcoming Endeavour home in grand style with these flyovers," Jeffrey Rudolph, president of the California Science Center, said earlier this week.	2	4	1		5
+The youngest shuttle, Endeavour replaced Challenger, which blew up during liftoff in 1986.	1	2	3		5
+NASA lost another shuttle, Columbia, in 2003 when it disintegrated during re-entry.	1	1	3		5
+Fourteen astronauts were killed.	1	1	4		5
+During 25 missions, Endeavour spent 299 days in space and orbited Earth nearly 4,700 times, racking up 123 million miles.	1	2	1		5
+On its maiden flight in 1992, a trio of spacewalking astronauts grabbed a stranded communications satellite in for repair.	1	3	1		5
+It also flew the first repair mission to the Hubble Space Telescope to fix a faulty mirror.	1	3	1		5
+But most of its flights ferried cargo and equipment to the International Space Station, which is near completion.	1	2	1		5
+Under White House orders to explore beyond low-Earth orbit, NASA is hitching rides on Russian rockets to the orbiting laboratory until private companies can provide regular service.	1	2	1		5
+Endeavour is the second of three remaining shuttles to head to its retirement home.	1	1	1		5
+In April, Discovery arrived at the Smithsonian Institution's hangar in Virginia.	1	1	1		5
+Atlantis, which closed out the shuttle program, will stay in Florida where it will be towed a short distance to the Kennedy Space Center's visitor center in the fall.	1	2	1		5
+Endeavour will remain at an airport hangar for several weeks as crews ready the shuttle for its own road trip.	1	1	1		5
+Unlike Atlantis, it will creep through city streets to the California Science Center near downtown.	1	2	1		5
+Some 400 trees will be cleared along the 12-mile route to make room, a move that has riled some residents in affected neighborhoods.	1	1	2		5
+Museum officials have pledged to replant double the number of chopped trees.	1	2	2		5
+___					5
+Associated Press writers Tom Verdin and Juliet Williams in Sacramento contributed to this report.				I	5
+Alicia Chang can be followed at http://twitter.com/SciWriAlicia				I	5

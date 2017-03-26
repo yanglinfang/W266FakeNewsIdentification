@@ -1,0 +1,6 @@
+Animals suspected in spread of new virus	2	1	2		4
+LONDON (AP) — Britain's Health Protection Agency says an early genetic sequence of the new respiratory virus related to SARS shows it is most closely related to bat viruses.	1	1	1		4
+Global health officials say they haven't found evidence the virus can spread between people and suspect the two victims from the Middle East may have caught it from animals.	2	1	2		4
+So far, there are no signs the virus will be as deadly as SARS, or severe acute respiratory syndrome, which killed hundreds of people, mostly in Asia, in a 2003 global outbreak	2	1	3		4
+Experts say camels, sheep or goats — animals commonly found in the region — may be implicated too.	1	1	1		4
+Bats also harbor other deadly viruses, like Ebola and SARS, which usually infect other animals including monkeys and civet cats before jumping to humans.	1	1	2		4

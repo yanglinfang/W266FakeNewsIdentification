@@ -1,0 +1,153 @@
+Inside the debt-limit showdown	2	1	2		4
+PRESIDENT OBAMA SUMMONED the top four congressional leaders to the White House on Saturday morning, July 23, 2011.	1	1	1		4
+The night before, House Speaker John A. Boehner had withdrawn from negotiations to raise the $14 trillion federal debt limit and save the government from a catastrophic default.	2	1	3		4
+"Nobody wanted to be there," Boehner later recalled.	3	1	3		4
+"The president's still pissed."	3	1	3		4
+They had about 10 days left before the government would run out of money.	1	1	3		4
+Given the global importance of U.S. Treasury securities, failing to extend the debt limit could trigger a worldwide economic meltdown.	2	1	4		4
+Boehner said he believed that he and the others — Senate Minority Leader Mitch McConnell, Senate Majority Leader Harry M. Reid, and House Minority Leader Nancy Pelosi — had a plan.	3	2	1		4
+He told Obama: We think we can work this out.	3	3	1		4
+Give us a little more time.	2	1	1		4
+We'll come back to you.	2	1	1		4
+We are not going to negotiate this with you.	2	1	2		4
+Obama objected, saying that he couldn't be left out of the process.	2	1	2		4
+"I've got to sign this bill."	2	2	1		4
+Reid, the most powerful Democrat on Capitol Hill, spoke up.	3	2	1		4
+The congressional leaders want to speak privately, he said.	2	1	1		4
+Give us some time.	2	1	1		4
+This was it.	2	1	1		4
+Congress was taking over.	1	1	1		4
+The leaders were asking the president to leave the meeting he had called.	1	1	1		4
+Before the meeting, without telling Obama, the four leaders had tentatively agreed on the framework of a deal.	2	2	2		4
+The congressional plan guaranteed that the debt limit would have to be revisited during the 2012 presidential campaign, and Obama was insisting that any agreement would have to take the country through the election.	2	2	2		4
+Around 10 p.m., Obama called Boehner, who was at dinner with friends.	1	1	1		4
+I am not going to sign a bill that requires me to deal with the debt ceiling a second time before the election, the president told him.	2	1	2		4
+He was furious.	3	1	3		4
+"Listen," Boehner said he told Obama.	3	1	1		4
+"I understand it....But you're not going to have a choice.	3	1	2		4
+We've got an agreement."	3	1	2		4
+Obama again said he would veto such a bill.	3	1	3		4
+We're too close to default to reopen the talks, Boehner said.	3	1	2		4
+Congress is going to move forward on its own.	2	2	1		4
+The president told his senior staff that the call with Boehner had led nowhere.	3	1	2		4
+"So we've got to figure out Plan B. Which is, how do we get out of this thing?" he said.	3	2	2		4
+The problem was that they did not have a Plan B.	3	1	3		4
+IT WAS INCREASINGLY clear that no one was running Washington.	3	1	3		4
+That was trouble for everyone, but especially for Obama.	3	1	3		4
+Although running things is a joint venture between the president and Congress, a president has to dominate Congress — or at least be seen as dominating Congress.	3	2	2		4
+The last president to fold was George H.W. Bush, who gave in to Democrats' demands that income taxes be raised in a 1990 budget deal.	1	1	2		4
+And Bush had been a one-term president.	1	1	2		4
+Obama sent word that he wanted the two Democratic leaders at the White House at 6 p.m. that Sunday, July 24.	1	1	1		4
+No reason was given.	1	1	1		4
+Reid arrived in the Oval Office with his chief of staff, David Krone.	1	1	1		4
+"Harry," the president began, "I hear you have kind of an outline, a framework of something."	3	2	1		4
+Reid began to lay out the two-step, $2.7 trillion debt limit extension, then stopped.	2	2	2		4
+He was not a details guy.	2	1	2		4
+"Well, let David just tell you what it is," he said.	3	1	1		4
+It was highly unusual for someone to pass the ball so completely to a staffer.	2	1	2		4
+The 44-year-old Krone outlined the plan, including a secret Republican pledge to count $1 trillion in savings from the wars in Iraq and Afghanistan toward deficit reduction.	2	1	1		4
+That was surprising.	2	2	1		4
+Earlier, Boehner had not been willing to accept this accounting gimmick.	2	1	2		4
+"I don't trust these guys," the president said dismissively.	3	1	3		4
+Krone either would not or could not conceal his anger.	3	1	3		4
+"Wait a second," Obama said, interrupting someone else who was about to speak.	3	1	1		4
+"I can tell David has something else to say."	3	1	1		4
+"Mr.				S	4
+President, I am sorry — with all due respect — that we are in this situation that we're in, but we got handed this football on Friday night.	3	1	3		4
+And I didn't create this situation.	3	2	3		4
+The first thing that baffles me is, from my private-sector experience, the first rule that I've always been taught is to have a Plan B. And it is really disheartening that you, that this White House did not have a Plan B."	3	1	3		4
+Several jaws dropped as the Hill staffer blasted the president to his face.	3	1	3		4
+"So I don't have a lot of options, in the past 36, 48 hours, to put together," Krone continued.	3	1	3		4
+"We're supposed to be the ones that fend off an economic catastrophe.	3	1	4		4
+And what we find ourselves is now, with no deal, we're going to have to root for the worst possible things to happen in order to prove to the Republicans that you cannot be so callous and let the debt limit expire.	3	1	4		4
+"That is a horrible position that we're in," Krone said.	3	1	4		4
+"And so this may not be the perfect deal, but it's the only deal that we have on the table right now in the situation that we find ourselves."	3	1	3		4
+Obama replied: "I understand what you think you're doing.	2	1	1		4
+I'm not doing that.	2	1	1		4
+The one thing that we need to bring stability to this economy is not throwing the debt limit increase back into the political arena.	2	1	1		4
+I'm not doing that under any circumstances.	2	2	2		4
+So if that means that I'm not signing this bill, I'm not signing the bill."	2	2	2		4
+After the meeting, Obama made a beeline for Krone.	1	1	1		4
+The others stepped back so the two could talk, but they still overheard the president's words.	2	1	1		4
+"I'm sorry," Obama said, putting an arm around Krone's shoulder.	3	2	1		4
+"You didn't deserve that.	3	3	1		4
+I know how hard you're working, and I know we wouldn't even have a chance without you."	3	3	1		4
+Reid gave Krone a ride back to the Capitol.	1	2	1		4
+The majority leader was almost like a father to him.	2	2	1		4
+"You stood up to him," Reid said.	3	2	1		4
+"He needed to hear it, and nobody was telling him."	3	2	1		4
+Asked later about the meeting with Reid and Krone, Obama said, "What I said to them is, essentially, any short-term deal is not going to be acceptable.	3	2	2		4
+We can go back to the drawing board, but we're running out of time.	3	2	2		4
+They need to understand we're not going to do a short-term deal."	3	2	2		4
+After more pressure from Obama, Reid split from the other congressional leaders.	2	1	2		4
+Later that night, he released a $2.7 trillion deficit reduction plan with a single-step debt limit increase that would last through 2012.	2	2	2		4
+Five days later, on Friday, July 29, by a narrow margin of 218 to 210, the House passed Boehner's version of the proposal.	1	1	1		4
+It included the two-step procedure that the president adamantly opposed.	2	2	2		4
+IN THE WHITE House at 10 later that night, Obama's key advisers discussed the House vote in the office of William Daley, the White House chief of staff.	2	1	1		4
+There was a chance the Senate Democrats would fold, because the fastest solution would be to pass the House bill and get out of town for their summer recess.	1	1	1		4
+If the bill managed to gain Senate approval, would the president really veto it?	2	1	2		4
+"You can't veto," Treasury Secretary Timothy Geithner told the group.	3	1	3		4
+"You cannot be responsible for default."	3	1	3		4
+Anything had to be done to prevent it.	3	1	2		4
+Anything to preserve the global economy.	3	1	3		4
+"If he caves," said David Plouffe, Obama's senior political adviser, "it will have long-lasting political repercussions that we may never get out of.	3	1	3		4
+If we draw a line in the sand on something this important and cross it, we may never be able to come back."	3	1	3		4
+Geithner had to deal with the possibility that the House bill could reach Obama's desk.	1	1	1		4
+"My recommendation to the president would be, we've got to sign this.	3	1	2		4
+If that's what they offer us, we sign it."	3	1	2		4
+Obama appeared unexpectedly at the door.	1	1	1		4
+"What's going on?	2	1	1		4
+What are you guys talking about?"	2	1	1		4
+He knew, of course.	3	1	1		4
+They quickly recapped.	2	1	1		4
+Could I actually veto it?	2	1	2		4
+Obama asked, adopting his law professor manner.	2	2	2		4
+What would happen on the day of the veto?	2	1	2		4
+The day after?	2	1	2		4
+"It would have massive effects," Geithner said.	3	1	3		4
+Treasury had to conduct a bond auction in the open market in about five days, the regular Tuesday auction, with settlement on Thursday.	1	1	1		4
+That first auction could be a kind of tripwire, setting off a chain reaction.	3	1	3		4
+The federal government couldn't pay its bills.	3	1	4		4
+"Why would anyone buy U.S. bonds if it's an open question whether we are going to have the authority to pay for them?"	3	1	4		4
+Another possible outcome, Geithner said, was perhaps worse.	3	1	4		4
+"Suppose we have an auction and no one shows up?"	3	1	4		4
+The cascading impact would be unknowable.	3	1	5		4
+The world could decide to dump U.S. Treasuries.	3	1	5		4
+Prices would plummet, interest rates would skyrocket.	3	1	5		4
+The one pillar of stability, the United States, the rock in the global economy, could collapse.	3	1	5		4
+"So," the president said, "if we give $1.2 trillion now in spending cuts" — the amount in the House bill to get the first increase in the debt ceiling for about six to nine months — "what happens next time?"	3	2	3		4
+The Republicans would then come back next year, in the middle of the presidential campaign, and impose more conditions on the next debt ceiling increase.	3	1	2		4
+He could not give the Republicans that kind of weapon.	3	1	3		4
+It was hostage taking.	3	1	4		4
+It was blackmail.	3	1	4		4
+So, Obama said, they had to break the Republicans on this.	3	1	2		4
+Otherwise, they would be back whenever it suited them politically.	3	1	3		4
+They were out of options, Geithner said.	3	1	3		4
+The only one might be accepting the House bill, loathsome as it might be.	3	1	3		4
+"The 2008 financial crisis will be seen as a minor blip if we default," he said.	3	1	3		4
+The president said, "The Republicans are forcing the risk of a default on us.	3	1	4		4
+I can't stop them from doing that.	3	1	3		4
+We can have the fight now, or we can have the fight later on, but the fight is coming to us."	3	1	3		4
+So, no, Obama said, he was not going to cave.	3	2	2		4
+Period.	2	1	1		4
+He said good night, got up, and left.	1	1	1		4
+He was very agitated.	3	1	3		4
+Geithner thought there was one other consideration.	3	1	1		4
+He did not mention it to anyone, not even the president, but he had thought about it a great deal.	3	2	1		4
+It was not just that Obama faced an economic choice or a political choice.	3	2	2		4
+He faced a moral choice.	3	2	2		4
+The president should not put himself in the position of saying unequivocally that he would veto, Geithner concluded, for one simple reason: No one could be sure how to put the American or the global economy back together again.	3	1	3		4
+The impact would be calamitous.	3	1	5		4
+Obama n ever had to confront the veto question.	3	2	2		4
+A few days later, House Republicans dropped their insistence on the two-step plan.	2	2	2		4
+The final plan accepted a debt limit increase that would take the country through the 2012 presidential contest.	2	2	1		4
+It also postponed $2.4 trillion in spending cuts until early 2013.	2	2	2		4
+The long-term deficit crisis had not been solved, but merely put off, leaving the United States at the edge of the fiscal cliff, where it remains today.	3	1	3		4
+From The Price of Politics by Bob Woodward.	1	1	1		4
+©2012 by Bob Woodward.				I	4
+Reprinted by permission of Simon and Schuster.				I	4
+All rights reserved.				I	4
+SEE MORE: Should the U.S. economy jump off the fiscal cliff?				I	4
+View this article on TheWeek.com				I	4
+Get 4 Free Issues of The Week				I	4
+Other stories from this topic:				I	4

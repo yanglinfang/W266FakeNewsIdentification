@@ -1,0 +1,16 @@
+Israeli electric car company CEO steps down	1	1	1		4
+JERUSALEM (AP) — Israeli electric car company Better Place said Tuesday that its founder and chief executive was stepping down.	2	1	1		4
+Shai Agassi leaves behind a company that has won widespread praise and attention for his dream of ending the world's dependence on oil, but which has struggled at times to carry out that vision.	3	3	2		4
+The circumstances surrounding his departure were not immediately clear.	1	1	1		4
+In a statement Tuesday, company Chairman Idan Ofer said it had achieved its goals under Agassi and had reached a "natural point" for change.	3	2	1		4
+"Under Shai's leadership, we've successfully achieved our goals in the first chapter of Better Place, and we owe Shai our gratitude for turning his powerful vision into a reality," Ofer said.	4	4	1		4
+"It is almost five years to the day since Shai launched Better Place and a natural point in the company's evolution to realign for its second chapter and for the challenges and opportunities ahead."	3	3	1		4
+The chief executive of Better Place's Australian business, Even Thornley, will take over.	1	1	1		4
+Agassi, a former top executive at German software maker SAP, will remain on Better Place's board.	1	1	1		4
+Better Place says it aims to wean the world off fossil fuel via a network of charging stations and infrastructure to power electric cars.	2	2	1		4
+Through a partnership with Renault, Better Place is close to completing nationwide networks in Israel and Denmark.	1	1	1		4
+For longer trips, its infrastructure includes changing stations that allow travelers to swap their batteries in a matter of minutes, avoiding the lengthy process of recharging.	1	2	1		4
+But the company has burned through hundreds of millions of dollars, caused in part by a slow rollout of its network and reluctance by consumers to adopt electric cars.	2	1	3		4
+The company says that despite the heavy startup costs, it remains on solid footing and is optimistic about the future.	2	3	1		4
+After testing the system for several months, it recently began sales of its all-electric Renault Fluence model to the general public.	1	1	1		4
+Altogether, it says it has raised $750 million and recently secured a 40 million euro loan from the European Investment Bank.	2	1	1		4

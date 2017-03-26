@@ -1,0 +1,16 @@
+WHO: Watch closely for new virus related to SARS	2	1	1		5
+LONDON (AP) — Global health officials have alerted doctors to be on the lookout for new cases of a virus related to SARS but said there was no sign the disease was behaving like the killer respiratory syndrome that killed hundreds in 2003.	2	1	5		5
+Earlier this week, the World Health Organization announced the new coronavirus had been found in a critically ill Qatari man being treated in London as well as in a Saudi Arabian man who died several months earlier.	1	1	4		5
+Genetic sequencing found the viruses in the two men to be nearly identical.	1	1	1		5
+Gregory Hartl, a WHO spokesman, said Thursday the two might have been infected directly by animals and there was no indication of human to human spread.	2	1	2		5
+The new coronavirus is from a family of viruses that cause the common cold as well as SARS, the severe acute respiratory syndrome that killed about 800 people, mostly in Asia in a 2003 epidemic.	1	1	5		5
+SARS jumped to people from civet cats and then mutated into a form easily spread among humans.	1	1	2		5
+Unlike SARS, the new virus also causes rapid kidney failure, a complication not usually seen in respiratory viruses.	1	1	3		5
+In London, the Qatari patient is in critical but stable condition and is being treated with an artificial lung machine.	1	1	3		5
+Hartl said WHO is monitoring reports of suspect cases of the new virus but none have so far been confirmed.	1	1	1		5
+Britain's Health Protection Agency said a small number of potential cases were being evaluated.	1	1	1		5
+On Wednesday, Danish authorities ruled out a handful of cases in people who had recently been in Saudi Arabia and Qatar hospitalized with flu-like symptoms.	2	2	1		5
+WHO also issued a case definition for the new virus to help doctors spot cases early.	1	1	1		5
+The agency advised them to investigate any patients hospitalized with acute respiratory syndrome not explained by other causes who had close contact with probable or confirmed cases or had recently traveled to Saudi Arabia or Qatar.	1	1	1		5
+Saudi officials said they were concerned that the next month's annual Muslim pilgrimage of Hajj could provide more opportunities for the virus to spread.	1	1	2		5
+They advised pilgrims to keep their hands clean and wear masks in crowded places.	1	1	1		5

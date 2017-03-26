@@ -1,0 +1,17 @@
+EU seeks foreign market access to boost ailing airlines	1	2	2		4
+BRUSSELS (Reuters) - The European Union is stepping up a campaign to ease airline ownership restrictions around the world in a move to boost growth opportunities for its struggling carriers.	1	3	2		4
+Airlines in Europe suffered more than in other major regions following the global financial crisis and EU carriers are expected to lose $1.1 billion this year.	2	1	3		4
+Most countries restrict foreign ownership of airlines, with a limit of 25 percent of voting shares in the United States and 49 percent in much of the European Union.	1	1	1		4
+But the European Commission wants to sign agreements with Washington and others to relax or even remove such constraints.	2	2	2		4
+"Cross-border consolidation, seen by many as a prerequisite for a more economically sustainable airline industry, is severely restricted," the EU's executive body said in a statement on Thursday.	3	2	3		4
+"It is now time to address this issue more vigorously."	3	2	2		4
+The EU Commission said it will seek approval from EU governments early next year to begin talks with China, Russia, India, the Gulf states and others on improving mutual access to their aviation markets.	2	2	1		4
+It will also seek a market liberalization deal with the United States under an existing transatlantic air transport agreement.	2	2	1		4
+The Commission said the total economic benefit of concluding the deals was estimated at 12 billion euros ($15 billion) per year.	3	3	1		4
+European airport association ACI Europe said in a statement that EU-led negotiations were the only effective way to improve access to overseas markets.	2	2	1		4
+"This is about maintaining our global relevance.	3	2	1		4
+This is crucial, not just for European aviation, but for our economies at large," said ACI Europe's Director General Olivier Jankovec.	3	2	1		4
+Negotiations could be complicated by a bitter row with the United States, China and India over the European Union's decision to force foreign airlines using its airports to pay for their carbon emissions, the bloc's transport chief said.	3	1	3		4
+"It is a problem for aviation relations with certain partners, but I hope very much that we can conclude negotiations," Transport Commissioner Siim Kallas told a news briefing.	3	2	2		4
+($1 = 0.7788 euros)	1	1	1		4
+(Reporting by Charlie Dunmore and Madeline O'Leary; Editing by David Cowell)				I	4

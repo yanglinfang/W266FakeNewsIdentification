@@ -1,0 +1,9 @@
+RadioShack CEO Gooch steps down	1	1	2		5
+FORT WORTH, Texas (AP) — RadioShack says CEO James Gooch has agreed to step down immediately and is leaving its board of directors.	1	1	2		5
+The struggling consumer electronics company has begun a search for a replacement.	1	1	2		5
+RadioShack says Chief Financial Officer Dorvin Lively will serve as interim CEO.	1	1	1		5
+RadioShack Corp. says it is in the process of hiring an executive search firm to help find a new CEO and that it may consider both internal and external candidates.	2	1	1		5
+Gooch had become CEO on May 2011.	1	1	1		5
+In July RadioShack posted an unexpected second-quarter loss and suspended its dividend.	1	1	2		5
+RadioShack, which is based in Fort Worth, Texas, has about 4,700 company-run stores in the U.S. and Mexico.	1	1	1		5
+It has approximately 1,500 U.S. wireless phone centers and about 1,100 dealer and other outlets worldwide.	1	1	1		5

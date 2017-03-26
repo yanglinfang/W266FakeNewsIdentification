@@ -1,0 +1,34 @@
+Mass. chemist in drug test flap is arrested	2	1	3		4
+BOSTON (AP) — A Massachusetts chemist accused of faking drug results, forging paperwork and mixing samples at a state police lab in a case that has thrown thousands of criminal cases into doubt was arrested Friday.	2	2	3		4
+Annie Dookhan, 34, was led to a police cruiser at her home in Franklin, about 40 miles southwest of Boston.	1	1	2		4
+Dookhan's alleged mishandling of drug samples prompted the shutdown of the Boston lab last month and resulted in the resignation of three officials.	2	1	3		4
+State police say Dookhan tested more than 60,000 drug samples involving 34,000 defendants during her nine years at the lab.	1	1	1		4
+Defense lawyers and prosecutors are scrambling to figure out how to deal with the fallout.	3	1	3		4
+Since the lab closed, more than a dozen drug defendants are back on the street while their attorneys challenge the charges based on Dookhan's misconduct.	1	1	3		4
+Many more defendants are expected to be released.	1	1	3		4
+Authorities say more than 1,100 inmates are currently serving time in cases in which Dookhan was the primary or secondary chemist.	1	1	1		4
+The scandal prompted the resignation of the state's public health commissioner and the resignations of two others.	2	1	3		4
+Dookhan is charged with witness intimidation, a crime punishable by as many as 10 years in prison, and pretending to hold a degree, punishable by as much as a year in jail.	1	1	3		4
+Dookhan had once testified under oath that she holds a master's degree in chemistry from the University of Massachusetts, but school officials have said they have no record of her receiving an advanced degree or taking graduate courses there.	1	1	3		4
+It is unclear whether anyone else will face charges, but Dookhan's supervisors have faced harsh criticism for not removing her from lab duties after suspicions about her were first raised by her co-workers and for not alerting prosecutors and police.	2	1	3		4
+"I think that all of those who are accountable for the impact on individual cases need to be held accountable," Gov. Deval Patrick said Thursday.	4	1	3		4
+Co-workers began expressing concern about Dookhan's work habits several years ago, but her supervisors allowed her to continue working.	2	1	2		4
+Dookhan was the most productive chemist in the lab, routinely testing more than 500 samples a month, while others tested between 50 and 150.	1	2	2		4
+One co-worker told state police he never saw Dookhan in front of a microscope.	1	1	2		4
+A lab employee saw Dookhan weighing drug samples without doing a balance check on her scale.	1	1	2		4
+In 2010, a supervisor did an audit of Dookhan's paperwork, but didn't retest any of her samples.	1	1	2		4
+The audit found nothing wrong.	1	1	1		4
+The same year, a chemist found seven instances where Dookhan incorrectly identified a drug sample as a certain narcotic when it was something else.	1	1	3		4
+He told state police he told himself it was an honest mistake.	3	2	3		4
+In an interview with state police late last month, Dookhan allegedly admitted faking test results for two to three years.	1	1	2		4
+She told police she identified some drug samples as narcotics simply by looking at them instead of testing them, a process known as "dry labbing."	2	1	2		4
+She also said she forged the initials of colleagues and deliberately turned a negative sample into a positive for narcotics a few times.	2	1	3		4
+She was eventually suspended from lab duties after getting caught forging a colleague's initials on paperwork in June 2011.	3	1	3		4
+She resigned in March as the Department of Public Health investigated.	1	1	2		4
+The lab was run by the department until July 1, when state police took over as part of a state budget directive.	1	1	1		4
+Dookhan told state police she just wanted to get the work done and never meant to hurt anyone.	2	1	2		4
+"I screwed up big-time," she is quoted as saying in a state police report.	3	1	2		4
+"I messed up bad; it's my fault.	3	1	3		4
+I don't want the lab to get in trouble."	3	1	2		4
+___				S	4
+Niedowski reported from Franklin.				I	4

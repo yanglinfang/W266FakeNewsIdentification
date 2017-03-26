@@ -1,0 +1,10 @@
+Samsung starts mass producing 128GB flash chips for smartphones and tablets	1	1	1		
+Storing media in the cloud isn’t for everyone.	3	1	2		
+For those who like keeping their files within reach on their smartphones and tablets, the need for high-capacity storage is a must.	2	1	1		
+While most people will feel 64GB of storage on a smartphone or tablet is overkill, there will always be users who need more.	2	1	2		
+Samsung (005930) announced this week that it has already begun mass producing “the industry’s highest density 128GB embedded NAND storage.”	1	1	1		
+The chips are capable of reading data at 140MB/s and writing data at 50MB/s.	1	1	1		
+“With 128GB of the new embedded memory storage, mobile handsets and tablet PCs can store up to 15 full HD, 8GB equivalent video files.”	1	1	1		
+Samsung didn’t announce any new smartphones that will utilize the new 128GB chips yet, but it’s safe to say they will probably show up in a future revision of the Galaxy S smartphones or iPhone.	3	1	1		
+Read				I	
+Get more from BGR.com: Follow us on Twitter, Facebook				I	

@@ -1,0 +1,84 @@
+If I produced election night coverage	1	1	1		3
+This is an assignment memorandum for the producers of election night coverage.	1	1	1		3
+I feel I am modestly qualified to make these assignments because of my past experience covering politics at the network level, and because this year, I might well be — for the first time — a viewer.	3	1	1		3
+The great gadgets and graphics and gimmicks are fun to watch.	3	1	1		3
+SEE ALSO: Decoding the next two months				i	3
+But there are a couple of dynamic data points that everyone who has followed the race closely and those who are just tuning it for the drama will want to know.	2	1	1		3
+The three Big Stories of the night are obvious: Will Obama get re-elected?	2	1	1		3
+Will Republicans take control of the Senate?	1	1	1		3
+Will they hang on to the House?	1	1	1		3
+SEE ALSO: Abuse allegations splinter U.S. speed skating team				i	3
+If I were producing the coverage, I'd make sure that, at all times in the lower third of the screen space, we'd have a graphic showing the current and projected advantage for Republicans in the House and Democrats in the Senate.	3	1	1		3
+These numbers ought to be automatically updated to reflect new projections.	3	1	1		3
+That is, let's say that it's 9:00 p.m. ET, and based on the races that have been called and projected so far, Democrats are clinging to a one-seat Senate majority.	2	1	1		3
+Right now, Democrats have a four-seat edge (two independents caucusing as Democrats, the vice presidential tie breaker, and 51 seats to their name).	1	1	1		3
+So the two data points that could be useful right at that moment would show the current composition (53) and the projected composition (51).	2	1	1		3
+But the more accurate graphic would show how many seats Republicans need to win to flip the chamber.	2	1	1		3
+And that's four, not three.	1	1	1		3
+So producers: Your graphic should look something like this.	3	1	1		3
+It should be on screen at all times, or rotated with the House control graphic, which I'll describe next.	3	1	1		3
+U.S. SENATE				i	3
+SEE ALSO: The NFL needs to give in, now				i	3
+NOW: D +4				i	3
+PROJECTED: D+2				i	3
+SEE ALSO: The American ambassador to Libya is murdered				i	3
+The House graphics are a bit more complicated.	2	1	1		3
+Republicans control 242 seats and Democrats control 193.	1	1	1		3
+But this tells the casual viewer very little.	2	1	1		3
+Republicans have a 25-seat advantage in the House.	1	1	1		3
+So the House graphic would read:	2	1	1		3
+NOW: R+25				i	3
+SEE ALSO: The dead cat lives				i	3
+PROJECTED: R+12				i	3
+The font would be slightly different for the projected make-up, and it would attest to its dynamic status.	2	1	1		3
+Since polls in Hawaii and Alaska don't close until very late, networks have to use projections.	3	1	1		3
+What makes the second part of the graphic interesting is that it can be updated in real-time to reflect House projections and real-vote returns that come in.	2	2	1		3
+(All networks use essentially the same computer back-end to crunch the numbers; their projection models differ slightly based on the political scientists and analysts who serve on the decision desks.)	1	1	1		3
+As the PROJECTED number is updated, it can flash — and anchors/reporters can explain (briefly) why the projection has changed, and perhaps the races that have been called can also flash on the screen.	1	1	1		3
+The graphic does not perfectly correspond to the 435 individual House elections because some can't be called even though the winner might be obvious.	1	1	1		3
+But the computer models will take the safe seats into account and the human modelers will make responsible projections.	1	1	1		3
+SEE ALSO: 5 ways Romney can still win				i	3
+Now, to the presidency.	1	1	1		3
+The magic number is 270 electoral votes.	1	1	1		3
+There are two ways to handle this.	1	1	1		3
+One is to simply show the projected electoral votes for each candidate in real-time.	1	1	1		3
+CURRENT EV (269 NOT CALLED)	1	1	1		3
+SEE ALSO: Welcome to The Compass				i	3
+ROMNEY + 145	1	1	1		3
+OBAMA + 124	1	1	1		3
+SEE ALSO: The president for the upper half				i	3
+Another would show how many EVs are needed.	1	1	1		3
+TO WIN (300 of 538 NOT CALLED)	1	1	1		3
+SEE ALSO: When a gaffe isn't				i	3
+ROMNEY needs 100	1	1	1		3
+OBAMA needs 29	1	1	1		3
+SEE ALSO: No easy answers for No Easy Day				i	3
+Another rotating graphic could show SCENARIOS to victory.	3	1	1		3
+They'd be in shorthand:	1	1	1		3
+ROMNEY'S PATH NOW: WINNING OH, CO, NV, AND NM	1	1	1		3
+SEE ALSO: Why Apple's events matter				i	3
+OBAMA'S PATH NOW: WINNING CO AND NV, OR IA AND NV	1	1	1		3
+But here's where networks can get creative.	1	1	1		3
+SEE ALSO: Apparently, it's not just the economy (stupid?)				i	3
+They'll have data to show where lies the outstanding vote, and in each state, it is fairly easy to write a formula that allows an anchor to say something like: "In Ohio, about 14,000 votes separate President Obama from Mitt Romney, but Romney needs to win about 56 percent of the outstanding precincts — precincts that tend to give Republicans 60 percent of their vote.				i	3
+So Ohio looks good for Romney, based on the turnout models that we have."	2	2	1		3
+On screen, you'd see:	1	1	1		3
+OHIO (18 EVs)	1	1	1		3
+SEE ALSO: A premortem obituary for Romney is premature				i	3
+OBAMA: 392,303 — 52 percent	1	1	1		3
+ROMNEY: 378,304 — 48 percent	1	1	1		3
+SEE ALSO: When the shuttle landed				i	3
+Margin: 14,000	1	1	1		3
+Precincts reporting: 43 percent	1	1	1		3
+SEE ALSO: Romney's theory of provocative weakness				i	3
+Tilt to precincts not yet reporting: 60 percent GOP	1	1	1		3
+-----------------				i	3
+At this point, John King, Chuck Todd, and their maps can go to town.	2	1	1		3
+But rarely do networks actually quantify the projected outstanding vote in states, and I don't know why.	3	1	2		3
+They have the data (I've seen it), and it anchors the drama of the night in reality.	2	1	1		3
+The exit poll data and the real-vote tracking ability of the networks is truly awesome on election night, and for the sake of viewers, I think it ought to be incorporated into the graphical crawls more easily.	3	1	1		3
+Technically, there are no impediments.	2	1	1		3
+But producers need to think through these things in advance as they figure out how to tell the story on election night, a story that is largely numerical.	3	1	1		3
+View this article on TheWeek.com				i	3
+Get 4 Free Issues of The Week				i	3
+Other stories from this section:				i	3

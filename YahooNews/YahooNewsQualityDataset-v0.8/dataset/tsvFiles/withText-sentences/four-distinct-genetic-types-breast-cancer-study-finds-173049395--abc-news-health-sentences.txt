@@ -1,0 +1,23 @@
+Four Distinct, Genetic Types of Breast Cancer, Study Finds	1	1	1		4
+A new study on the genomics of breast cancer confirms that there are four distinct genetic types of the disease, suggesting that some drugs already used to treat cancer in other parts of the body could possibly be used to treat certain forms of breast cancer that share the same genetic abnormalities.	2	1	1		4
+The researchers, whose findings were published Sunday in the journal Nature, studied the DNA of breast cancer tumors of 825 patients at various stages of the disease, and found that the disease could be stratified into four major genetic categories.	1	1	1		4
+The study, a collaborative effort between 348 researchers, is part of a larger project known as the Cancer Genome Atlas, which is mapping the genetic changes in 20 cancers, including breast cancer.	1	1	1		4
+The new study, part of the largest breast cancer genomic project, offers the largest pool of data for researchers who have known for decades that there were genetic subtypes of breast cancer.	1	1	1		4
+"This again reconfirms on a larger scale the heterogeneity that exists between each patient's breast cancer," said Dr. Ben Park, associate professor of oncology at the Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins.	2	1	1		4
+Park was not involved in the study.	1	1	1		4
+The genetic analysis not only included a comprehensive look at the inherited basis for the cancers but also examined how proteins expressed within the genes affected the type of cancers that were classified.	1	1	1		4
+"We now understand the recoding of the genome that is behind [these cancers]," said Dr. Matthew Ellis, a professor of medicine at Washington University in St. Louis, and a researcher on the study.	2	1	1		4
+The Cancer Genome Atlas work "lays the foundation for a new and much more informed approach to developing cures for all our patients," he said.	2	2	1		4
+In particular, researchers found that one type of the disease, more commonly known as triple negative breast cancer, genetically resembles a form of ovarian cancer that is currently treatable.	1	1	1		4
+Triple negative breast cancer is an aggressive and deadly form of the disease that responds to chemotherapy but has high rates of relapse.	1	1	3		4
+But clinicians caution that it will take years for these initial genetic findings to change the course of treatment for breast cancer, which is expected to kill nearly 40,000 women in 2012, according to the American Cancer Society.	2	1	2		4
+"You would need to treat a large number of patients with this profile to see whether the hypothesis works," said Dr. Jay Brooks, chairman of the department of hematology and oncology at Ochsner Clinic Foundation and Hospital in Baton Rouge, La.	2	1	1		4
+Brooks was not affiliated with the study.	1	1	1		4
+According to many breast cancer experts, the findings confirm that cancers should be defined and treated according to their genetic components rather than their location in the body.	2	1	1		4
+"For a lot of physicians, breast cancer is breast cancer is breast cancer.	2	1	1		4
+And the problem is, it isn't," said Brooks.	2	1	2		4
+"This is the future of the way we will identify malignancies and the best sort of therapy."	2	1	1		4
+These classifications may eventually guide clinicians to prescribe more personalized treatments for breast cancer patients according to the type of the disease they have.	2	1	1		4
+"Certainly breast cancer patients will want to know whether this study leads to a different clinical approach to the management of their disease, and for now, this is not the case," said Brooks.	3	1	1		4
+For now, the genomic information offers researchers a more definitive understanding of breast cancer, and hope that once the specific type is identified in a patient, a clinician can, eventually, offer an arsenal of personalized treatments.	1	2	1		4
+"Without the ability to understand the various types, we are not able to develop personalized medicine to treat them or develop ways to effectively prevent them," said Lillian Shockney, administrative director of the Breast Center at Johns Hopkins.	2	1	2		4

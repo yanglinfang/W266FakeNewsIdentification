@@ -1,0 +1,27 @@
+Stocks edge up in midday trading	1	2	1		4
+NEW YORK (AP) — Encouraging economic reports gave the stock market a nudge higher Tuesday.	1	3	1		4
+House prices rose in major cities for a third straight month, and a gauge of consumer confidence came in surprisingly high.	2	3	1		4
+The Dow Jones industrial average climbed gained as much as 61 points before falling back, and was up nine points at 13,567 just after noon EDT.	1	3	2		4
+Home Depot led the 30 stocks in the Dow, gaining 1.7 percent.	1	2	1		4
+The Standard & Poor's 500 index added a point to 1,458.	1	2	1		4
+Even more surprising than those two economic reports was the Richmond Federal Reserve's strong reading on regional manufacturing, a recent trouble spot, said Phil Orlando, chief equity strategist at Federated Investors.	3	3	2		4
+"Look at that.				S	4
+There were three data points on the economy and we crushed them," said Phil Orlando, chief equity strategist at Federated Investors.	4	2	3		4
+"I checked to see if the stock market is up, and it is.	2	2	1		4
+All is right with the world today."	4	4	1		4
+The closely watched Standard & Poor's/Case Shiller index of national house prices increased 1.2 percent in July compared with the same month in 2011.	1	3	1		4
+Prices rose from the previous month in all 20 major cities tracked by the report for the third month in a row.	1	3	1		4
+The Conference Board said its gauge of consumer confidence shot to a seven-month high in September, trumping forecasts by a large margin.	2	3	1		4
+People surveyed said they were more optimistic about the job market.	4	3	1		4
+The Federal Reserve's manufacturing index, which surveys companies in the central Atlantic region, increased after shrinking for three months as businesses turned more optimistic.	1	3	1		4
+Companies said they anticipate more orders and shipments even as employment dips.	3	2	2		4
+The index turned positive in September after a negative reading in August.	1	2	2		4
+In other trading, the Nasdaq composite index added five points to 3,166.	1	2	1		4
+Google's stock touched an all-time high in early trading, clearing $763.	1	3	1		4
+Carnival Corp. jumped 3 percent after the cruise-ship company posted better earnings than analysts had expected Tuesday morning.	1	3	1		4
+Its stock rose 95 cents to $37.95.	1	2	1		4
+All three major stock indexes have surged this month, buoyed by a new plan from the Federal Reserve to support the sluggish U.S. economy.	3	3	2		4
+Both the Dow and the S&P 500, the benchmark for most stock funds, have gained almost 4 percent.	1	2	1		4
+Treasury prices were little changed ahead of the first of three bond auctions this week.	1	1	1		4
+The government plans on selling $35 billion in two-year notes Tuesday.	1	1	1		4
+The 10-year yield, the benchmark for mortgages and other loans, was trading at 1.72 percent early Tuesday.	1	1	1		4

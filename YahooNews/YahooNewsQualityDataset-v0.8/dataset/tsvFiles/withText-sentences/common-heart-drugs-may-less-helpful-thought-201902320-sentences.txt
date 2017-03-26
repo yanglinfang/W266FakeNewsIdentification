@@ -1,0 +1,27 @@
+Common heart drugs may be less helpful than thought	1	1	2		4
+NEW YORK (Reuters Health) - The cheap and popular heart drugs known as beta-blockers may be overused in many patients, exposing them needlessly to bothersome side effects, a new study suggests.	2	1	2		4
+Researchers found that people with stable heart disease who took beta-blockers were no less likely to die from their condition, or to suffer a heart attack or stroke, than were those not on the medications.	1	1	2		4
+Although the study is not conclusive, it "is definitely going to make some waves," said Dr. Lydia Bazzano of Tulane University in New Orleans, who studies heart disease prevention, but wasn't part of the new work.	2	2	2		4
+"I think there are probably plenty of people out there who are getting (beta-blockers), but don't need them," Bazzano told Reuters Health.	2	1	2		4
+Beta-blockers such as atenolol and metoprolol slow the heartbeat and lower blood pressure.	1	1	1		4
+They are known to shield against future heart attacks in people who just had one and can be helpful in certain types of heart failure. Older studies have suggested staying on beta-blockers in the long run may be beneficial, so many doctors have their patients take the drugs indefinitely.	1	2	1		4
+But those results predate modern treatment, researchers say. And whether or not beta-blockers can ward off heart attacks in the first place is still up in the air.	1	1	2		4
+Because beta-blockers are now off patent, drug companies have little incentive to study their effects in expensive clinical trials - the gold-standard in medical science for demonstrating what a treatment does and does not do.	1	1	2		4
+So Dr. Sripal Bangalore of the NYU Langone Medical Center in New York and colleagues did the next-best thing. They used data from a registry of nearly 45,000 people with established coronary artery disease or risk factors for heart disease to get a sense of the drugs' efficacy.	1	1	2		4
+In coronary artery disease, or CAD, the blood vessels supplying the heart are partially clogged by cholesterol buildups, which can lead to heart attacks.	1	1	2		4
+The researchers sliced the registry according to whether people had suffered a heart attack, had CAD but no past heart attack, or just had risk factors such as diabetes and high blood pressure.	1	1	2		4
+During an average follow-up period of 44 months, people on beta-blockers fared no better than others in any of the three groups.	1	1	2		4
+In people with CAD, for instance, 12.9 percent of those on beta-blockers either died from heart disease or had a heart attack or a stroke. That compared to 13.6 percent of those not on the drugs - a difference that could easily be due to chance.	2	1	3		4
+Among people with risk factors alone, 14.2 percent of those on beta-blockers had a bad outcome versus 12 percent of non-users.	1	1	1		4
+There was no difference in outcomes overall among people with prior heart attacks who did or did not use beta-blockers. However, those who'd suffered a heart attack within the past year and took beta-blockers seemed to be slightly less likely to fare ill or land in the hospital due to their condition.	2	2	2		4
+"A lot of physicians still prescribe beta-blockers, especially in patients who have known CAD," said Bangalore, whose findings are published in the Journal of the American Medical Association. "We need clinical trials to say which are the patients who would benefit from beta-blockers."	1	1	1		4
+Controlling blood pressure and cholesterol levels through exercise, diet changes and drugs are common ways to treat heart disease. After a heart attack, patients are also typically put on clot-busters and blood thinners such as aspirin.	1	1	2		4
+Beta-blockers are cheap - a month's supply of the generic versions can be bought for less than $10 - but often cause side effects, including fatigue, depression and nightmares.	1	1	2		4
+"I think there has been a movement away from beta-blockers," said Bazzano, including as a blood pressure medication. "A lot of people don't like to be on them."	2	1	2		4
+Dr. Harlan Krumholz, a cardiologist who was not involved in the new study, said it is consistent with recent guidelines from the American Heart Association.	1	1	1		4
+The group says beta-blockers are most effective in the first three years after a heart attack and in patients with certain types of heart failure. In other cases, their use is "optional," according to 2011 guidelines.	1	1	2		4
+Krumholz, of Yale School of Medicine in New Haven, Connecticut, said he often leaves patients on beta-blocker therapy "forever" after a heart attack.	1	1	2		4
+"This is raising the question of whether or not we need to keep them on it," he said.	1	1	1		4
+He cautioned that there may be specific reasons why doctors would still put patients with heart disease on beta-blockers, such as high blood pressure or chest pain.	2	1	2		4
+But in general, Krumholz concluded, "The best thing is for every patient to be on as few medicines as possible, and only the ones that are the most helpful to them."	2	2	1		4
+SOURCE: http://bit.ly/MvXYT6 JAMA, online October 2, 2012.				I	4

@@ -1,0 +1,10 @@
+Dave Grohl says Foo Fighters are taking a break	1	1	2		4
+NEW YORK (AP) — Dave Grohl says his band Foo Fighters is officially taking a break.	1	1	2		4
+Grohl sent an open letter Tuesday, calling the band "my life," but noting "it's a good thing for all of us to go away for a while."	3	2	2		4
+Grohl told fans Saturday at the Global Citizen Festival he didn't know when the band would play together again, and affirmed that in the letter.	2	1	2		4
+He created Foo Fighters in 1994 after his time as the drummer in Nirvana, recording the band's self-titled debut before inviting other members to join.	1	1	1		4
+The band has been one of rock 'n' roll's most enduring critical and commercial successes, winning 11 Grammys, including five earlier this year.	3	3	1		4
+Grohl says he's now focused on his forthcoming Sound City documentary and album.	1	2	1		4
+___				I	4
+Online:				I	4
+http://foofighters.com				I	4

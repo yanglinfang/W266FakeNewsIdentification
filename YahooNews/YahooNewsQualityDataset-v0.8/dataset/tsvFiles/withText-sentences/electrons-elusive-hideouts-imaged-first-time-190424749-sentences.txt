@@ -1,0 +1,34 @@
+Electrons' Elusive Hideouts Imaged for First Time	1	1	1		
+For the first time, scientists have peered down to the level of a single electron and observed quantum states that had only been theorized before.	1	2	1		
+Researchers imaged the magnetic orbits of electrons called Landau levels, which were predicted in 1930 by Nobel Prize winner Lev Landau.	1	2	1		
+These orbits represent the curved paths electrons travel when exposed to very strong magnetic fields.	1	1	1		
+Previously, scientists had confirmed the levels exist by measuring the changes in electric current that result when electrons switch from one Landau level to another.	1	1	1		
+However, no one has been able to see these levels until now.	1	2	1		
+"We are the first to have actually done what's called scanning tunneling microscopy and really look at individual states," said physicist Rudolf Roemer of England's University of Warwick.	2	2	1		
+Roemer was a member of the research team, led by Koichi Hashimoto of Japan's Tohoku University, that reported the achievement in a paper published in the Sept. 14 issue of the journal Physical Review Letters.	2	2	1		
+Tinier circles	1	1	1		
+When charged particles, such as electrons, are put inside a magnetic field, they travel along curved paths, ultimately making a circle.	1	1	1		
+As the magnetic field gets stronger and stronger, these circles get smaller and smaller.	1	1	1		
+The smallest possible circles for the electrons to travel in are the Landau levels.	1	1	1		
+[Tiny Grandeur: Stunning Photos of the Very Small]				I	
+To image these levels, the physicists looked at electrons on the surface of a semiconductor material.	1	1	1		
+Then they used scanning tunneling spectroscopy to look for the possible locations of electrons.	1	1	1		
+This technique images a sample by allowing electrons to try to pass into it at different locations.	1	1	1		
+If the location contains a feasible state for an electron, the particle will be able to jump into that state through a process called tunneling, confirming that it exists; if the location does not hold a potential electron state, there's nowhere for the electron to tunnel into.	1	1	1		
+In the resulting image, light areas represent the locations of possible states, while black spots show the lack of electron states.	1	1	1		
+The pictures produced byHashimoto and his team look remarkably like theoretical simulations predicted they would.	1	2	1		
+"I was very much hoping it would come out like that, and of course we were surprised the agreement was so good," Roemer told LiveScience.	3	3	1		
+"The agreement is even quantitatively so good."	3	3	1		
+Such images were never possible to make before because scanning tunneling spectroscopy has never been so advanced.	1	2	1		
+Each pixel in the team's pictures represents more than a half-hour of data taking, Roemer said.	2	2	1		
+"You really have to have a very good experimental setup, and you have to have lots of time," he said.	3	2	1		
+Redefining the kilogram	1	1	1		
+And Landau levels aren't just an esoteric curio.	1	1	1		
+They could be put into practical use to help redefine the kilogram, the fundamental unit of mass in the International System of Units (SI).	1	1	1		
+While most SI units are defined by relations between fundamental constants that can be reproduced anywhere to derive the correct value, the kilogram is currently defined by a golf ball-size lump of metal kept in a vault in France.	1	1	1		
+Scientists want to change that by defining the kilogram in terms of the weight it would take to counterbalance an electromagnetic force produced by a magnetic coil.	1	1	1		
+The strength of this force is partly dependent on the von Klitzing constant, which is itself linked to Landau levels.	1	1	1		
+"Imaging Landau levels doesn't help set up the balance, but it strengthens the understanding of the underlying theory we have, that the von Klitzing constant is a universal constant, and it tells us it's really true," Roemer said.	2	3	1		
+"We can look at these states and really find them there."	2	2	1		
+Follow Clara Moskowitz on Twitter @ClaraMoskowitz or LiveScience @livescience.				I	
+We're also on Facebook & Google+.				I	

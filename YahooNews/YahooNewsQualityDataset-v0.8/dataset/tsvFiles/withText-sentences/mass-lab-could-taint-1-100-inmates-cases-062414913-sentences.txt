@@ -1,0 +1,9 @@
+Work by Mass. lab could taint 1,100 inmates' cases	1	1	2		4
+BOSTON (AP) — Massachusetts officials say they have identified more than 1,100 defendants serving state sentences based at least partly on drug tests by a chemist accused of failing to follow protocols and mishandling samples in a now-closed state drug lab.	2	1	3		4
+David Meier, an attorney appointed to help sort through the legal quagmire, released the number on Monday.	3	1	3		4
+Officials say chemist Annie Dookhan was involved in testing more than 60,000 drug samples involving about 34,000 defendants.	2	1	2		4
+Meier says it's unclear how many of the cases might have been tainted.	2	1	2		4
+He says prosecutors and defense attorneys have been given the list because Gov. Deval Patrick has given priority to incarcerated people.	3	1	3		4
+Meier says lawyers must bring those cases before a judge.	2	2	2		4
+The state attorney general's office is conducting a criminal investigation.	1	1	2		4
+Dookhan hasn't been charged.	1	2	2		4

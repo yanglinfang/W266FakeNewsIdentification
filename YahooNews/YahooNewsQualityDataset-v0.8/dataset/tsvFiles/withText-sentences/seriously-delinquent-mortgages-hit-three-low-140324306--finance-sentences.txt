@@ -1,0 +1,10 @@
+Seriously delinquent mortgages hit three-year low	1	1	1		4
+WASHINGTON (Reuters) - The percentage of seriously delinquent mortgages in the United States hit a three-year low in the second quarter, while the overall quality of mortgages remained little changed, a U.S. regulator said on Thursday.	1	2	1		4
+According to a report released by the Office of the Comptroller of the Currency, 88.7 percent of mortgages were current on payments at the end of the second quarter, a slight decline from the prior quarter's rate of 88.9, and a small increase from 88.1 percent a year earlier.				i	4
+However, the percentage of seriously delinquent mortgages -- those that are at least 60 days past due or held by bankrupt borrowers — fell to 4.4 percent, the lowest level in three years.	1	2	1		4
+That represents a decline of 9.2 percent from a year ago.	1	1	1		4
+The OCC attributes the year-over-year change to improving economic conditions, servicing transfers and the ongoing effects of both home retention loan modification programs as well as home forfeiture actions.	1	2	1		4
+The percentage of mortgages in the second quarter that were 30 to 59 days past due stood at 2.8 percent, up 12.1 percent from the prior quarter but down 7.5 percent from a year ago.	1	1	1		4
+The report covers 30.5 million first-lien mortgages worth $5.2 trillion in outstanding balances.	1	1	1		4
+That is about 60 percent of all first-lien mortgages in the United States.	1	1	1		4
+(Reporting By Alexandra Alper; Editing by Maureen Bavdek)				i	4

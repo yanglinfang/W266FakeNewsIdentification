@@ -1,0 +1,8 @@
+Google works to improve Web-based rival to iOS 6 Maps	1	2	1		4
+If the New York Times’ report from Tuesday is accurate, a native Google (GOOG) Maps app for iOS might not be released until the end of the year.	2	1	2		4
+For the time being, it would appear iOS 6 users can either switch to Android, deal with the issues until Apple fixes them or visit Google’s mobile Maps website for their mapping needs.	2	1	2		4
+The Web-based solution is not ideal and it’s much slower than a dedicated app, but using Google’s Maps website in Safari or any Web browser is still more accurate than Apple’s hot new mess.	3	2	3		4
+It just doesn’t have Street View, Google’s huge database of stitched panoramas taken from camera-outfitted cars.	2	1	2		4
+According to a New York Times published on Thursday, however, Google will update its mobile Maps website with Street View within two weeks, bringing iOS users an even more robust alternative to the widely criticized Apple Maps app.	2	3	3		4
+Read				S	4
+Get more from BGR.com: Follow us on Twitter, Facebook				I	4

@@ -1,0 +1,7 @@
+Vertex ends work on one hepatitis C drug, continues another	1	2	2		5
+(Reuters) - Vertex Pharmaceuticals Inc said on Tuesday it will discontinue development of an experimental drug to treat hepatitis C after it failed to show sufficient efficacy to warrant further study.	2	2	2		5
+The company, which was developing the drug, known as ALS-2158, with partner Alios BioPharma Inc, said it will continue development of another hepatitis C drug, ALS-2200, after it showed promise in an early trial.	2	3	1		5
+The company said it is planning one mid-stage, or Phase II, trial of ALS-2200 in combination with the drug ribavirin and one trial to evaluate ALS-2200 in combination with the company's existing drug Incivek.	2	2	1		5
+Vertex acquired worldwide rights to ALS-2200 through a licensing agreement it signed with Alios in June 2011.	1	1	1		5
+The drug is designed to inhibit the replication of the hepatitis C virus and the virus does not appear to become easily resistant to it, the company said.	2	2	2		5
+(Reporting By Toni Clarke; Editing by Gerald E. McCormick)				I	5

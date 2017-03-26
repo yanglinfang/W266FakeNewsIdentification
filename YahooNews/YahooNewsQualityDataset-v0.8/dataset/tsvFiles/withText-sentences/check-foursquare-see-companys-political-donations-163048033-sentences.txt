@@ -1,0 +1,22 @@
+Check In on Foursquare to See a Company's Political Donations	1	1	1		4
+How much money is a company giving to a political candidate?	1	1	1		4
+Now you can find out by simply checking in on Foursquare.	1	1	1		4
+[More from Mashable: Somber French Cat Discusses Political Opinion [VIDEO]]				I 	4
+GeoPollster, a new "connected app," links with your Foursquare account then shows the political contributions of every company to which you've ever checked in, when the data's available.	1	1	1		4
+"We added the 100 companies with the most venues [on Foursquare]," said Adam Kraft of GeoPollster.	1	1	1		4
+[More from Mashable: 10 Great Apps for Android Tablets]				I 	4
+The platform's results are based on data from the 2010 and 2012 political cycles.	1	1	1		4
+OpenSecrets.org,				S	4
+an independent campaign finance watchdog, provides those results.	2	1	1		4
+GeoPollster also assigns "partisan points" to its users, resulting in a score that the company says "help users understand how their spending habits subsidize politicians."	3	1	1		4
+We tested the app and found that GeoPollster's data was rather scant.	1	1	2		4
+For upwards of 200 check-ins, data was only available for two companies -- Whole Foods and Waffle House.	1	1	2		4
+GeoPollster has been around since October of 2010, but the check-in based donations information is a brand new feature.	1	2	1		4
+As the app's name implies, its primary intent is to do "location-based polling."	2	1	1		4
+Users can choose their political party and GeoPollster will then collect anonymous check-in data with the hopes of gleaning insight into the different habits of Democrats, Republicans and other voters.	2	1	1		4
+At the moment, there aren't enough users to get statistically significant data, but Kraft told Mashable he hopes that time will come soon.	2	1	1		4
+So far, 800 users have signed up for GeoPollster.	1	1	1		4
+Will you give it a shot?	1	1	1		4
+Tell us in the comments.	1	1	1		4
+Image courtesy of iStockphoto, hocus-focus				I 	4
+This story originally published on Mashable here.				I 	4

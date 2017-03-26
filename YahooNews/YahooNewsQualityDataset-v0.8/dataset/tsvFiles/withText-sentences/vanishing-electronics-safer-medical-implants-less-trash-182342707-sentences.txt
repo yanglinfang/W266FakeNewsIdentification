@@ -1,0 +1,31 @@
+Vanishing Electronics: Safer Medical Implants, Less Trash	1	3	1		4
+Biodegradable electronics could one day be used in temporary implants that fight surgical infections or stimulate bone growth and then get absorbed by the body, researchers say.	1	3	2		4
+Such vanishing devices could also be deployed en masse during emergencies such as oil spills and then fade away when no longer needed, scientists added.	1	2	2		4
+They also suggest these short-lived circuits might one day find use in disposable consumer products to help reduce the environmental impact posed by discarded electronics.	1	2	1		4
+The idea suggests a very different philosophy from today's business as usual.	2	1	1		4
+The microchips or integrated circuits that make up the heart of modern electronics are typically designed to last as long as possible.	1	2	1		4
+"If you look at the history of integrated circuits, one of their key appealing attributes is how they have no moving parts, so you can make devices without the wear and tear you'd get from having moving parts that'd have virtually infinite lifetimes," said researcher John Rogers, a materials scientist at the University of Illinois at Urbana-Champaign.				I	4
+"Our thought was that maybe it'd be interesting to have integrated circuits that offer the performance of today's integrated circuits but have the opposite lifetime characteristic," Rogers told TechNewsDaily.	3	2	1		4
+"They'd offer stable performance, then vanish in water or bio-fluids at programmed times, engineered rates of dissolution."	2	2	1		4
+The inspiration for transient electronics came from Rogers and his colleagues' work on biomedical implants such as electronics that help treat problems in the body or monitor life signs that include temperature, heart rate, blood sugar levels and muscle, heart or brain activity.				I	4
+One of the most daunting challenges they face is biocompatibility — making sure any implants they put in do not irritate the body, or invite rejection.	1	1	3		4
+[9 Cyborg Enhancements Available Right Now] "One way to avoid the problem entirely is to just develop materials that disappear completely," Rogers said.	2	1	1	S	4
+Over the course of three years, Rogers and his colleagues have created transient versions of all the components found in normal microchips.	1	1	1		4
+These include thin sheets of porous silicon; electrodes made of magnesium, an element normally found in the body; and encapsulation layers of magnesium oxide covered by a silk overcoat made from silkworm cocoons.	1	1	1		4
+These encapsulation layers are the first to dissolve, and the number of them can help dictate how long these electronics last — days, weeks, months, perhaps even years.	2	1	1		4
+To test these materials, the researchers devised a biomedical implant that used heat to fight bacterial infections in surgical wounds in mice.	1	2	1		4
+After three weeks, the researchers saw reduced levels of infection at the wound site and only faint residues of the implant.	2	2	1		4
+They also developed a fully transient 64-pixel digital camera.	1	1	1		4
+Researchers envision vast opportunities for transient electronics.	1	2	1		4
+"You can imagine biomedical devices that get implanted in the body, monitor or affect a healing process, and after that healing is completed, they simply disappear, eliminating the need to fish them out again," Rogers said.	2	2	1		4
+"You can imagine distributing them in the environment to monitor large-scale chemical spills," he said.	2	1	2		4
+"In those cases, you might want wireless sensors that transmit what's going on, but not forever — only until the spill is cleaned up, after which the devices ideally just dissolve in a benign way, eliminating the need for recovery and disposal."	2	1	1		4
+"A third area that's a bit more challenging but equally interesting is consumer electronics," Rogers added.	3	2	1		4
+"In some ways, it's great that normal integrated circuits last forever, but that might not necessarily be a good thing in a world where people today upgrade their smartphones every couple of years.	3	3	2		4
+We're inundated with discarded electronics, and it might be appealing to make new devices that just disappear in landfills, eliminating a huge waste stream we're increasingly having to deal with."	2	3	2		4
+In the future, in addition to coming up with new applications for transient electronics, "we'd like to figure out how to manufacture these things at low cost, high volume and with sophisticated functions," Rogers said.	1	3	1		4
+"We want to leverage the manufacturing structures that already exist out there in the electronics industry."	1	1	1		4
+The scientists detail their findings in tomorrow's (Sept.	1	1	1	S	4
+28) issue of the journal Science.	1	1	1	S	4
+This story was provided by TechNewsDaily, a sister site to LiveScience.				I	4
+Follow TechNewsDaily on Twitter @TechNewsDaily, or on Facebook.				I	4

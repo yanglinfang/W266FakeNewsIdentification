@@ -1,0 +1,7 @@
+Iran says it blocks Gmail based on court decision	2	1	1		4
+TEHRAN, Iran (AP) — Iran's telecommunication minister says the government has blocked Google's Gmail service following a court order to bar access to the popular email service.	2	1	1		4
+The semiofficial Mehr news agency quoted Reza Taghipour as saying Tuesday that Gmail had not observed Iranian law.	1	1	2		4
+He did not elaborate but said if the court changes its decision his ministry will lift its block on Google's mail service.	1	1	1		4
+He said Google's search engine remains available in Iran.	2	1	1		4
+Taghipour's comments come after many Internet users in Iran reported having no access to their Gmail accounts Monday.	1	1	1		4
+Iranian authorities have warned in recent days that they would block access to Google services, including Gmail, in response to the anti-Islam film posted on YouTube, which is owned by Google.	1	1	2	 	4

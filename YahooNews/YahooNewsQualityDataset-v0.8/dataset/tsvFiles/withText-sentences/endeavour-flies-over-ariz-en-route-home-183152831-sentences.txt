@@ -1,0 +1,9 @@
+Endeavour flies over Ariz. en route to new home	1	1	1		5
+TUCSON, Ariz.	1	1	1	S	5
+(AP) — Space shuttle Endeavour has flown over Tucson, Ariz., on its trek west to retirement in a Los Angeles museum.	1	1	1	S	5
+Endeavour, atop a modified jumbo jet, did a partial loop over the city to honor former Congresswoman Gabrielle Giffords, before it continued its journey west.	1	2	1		5
+Hundreds of people gathered on the grass mall at the University of Arizona campus to watch it pass.	1	1	1		5
+The retired shuttle departed Houston earlier Thursday after a one-day stop at the home of NASA's Mission Control.	1	1	1		5
+It took off Wednesday from its old home in Kennedy Space Center in Florida.	1	1	1		5
+It continues its journey to Los Angeles International Airport, where it's scheduled to land Friday.	1	1	1		5
+This is the last flight for a space shuttle.	1	1	1		5

@@ -1,0 +1,11 @@
+Drew Barrymore gives birth to her first child	1	1	1		5
+NEW YORK (AP) — Drew Barrymore is a mom.	1	1	1		5
+The 37-year-old actress and her husband, Will Kopelman, welcomed a baby girl named Olive Barrymore Kopelman on Sept. 26.	2	1	1		5
+A statement from Chris Miller at Barrymore's production company, Flower Films, said the baby was born "happy, healthy and welcomed by the whole family."	2	3	1		5
+The statement didn't provide specifics on the birth.	1	1	1		5
+Barrymore wed Kopelman, an art consultant, in June.	1	1	1		5
+He's the son of former Chanel CEO Arie Kopelman.	1	1	1		5
+She is the granddaughter of screen legend John Barrymore.	1	1	1		5
+___				I	5
+Online:				I	5
+http://www.drewbarrymore.com/				I	5

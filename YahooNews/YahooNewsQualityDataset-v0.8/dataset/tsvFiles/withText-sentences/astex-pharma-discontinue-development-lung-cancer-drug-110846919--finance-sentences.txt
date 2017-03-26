@@ -1,0 +1,8 @@
+Astex Pharma to discontinue development of lung cancer drug	1	1	2		4
+(Reuters) - Astex Pharmaceuticals Inc said it would discontinue the development of its experimental small-cell lung cancer drug amuvatinib as the drug failed to meet the main goal of a mid-stage study.	2	1	2		4
+The main goal of the study was to show that the drug did not have less than 10 percent response rate in treating lung cancer patients.	1	2	1		4
+However, Amuvatinib showed only a 9.5 percent response rate.	1	1	2		4
+The company said it would now consider licensing the compound to any partners interested in its development.	2	2	1		4
+No new safety issues were identified in the trial, the company said in a statement.	2	3	2		4
+Shares of Astex closed at $3.32 on Thursday on the Nasdaq.	1	1	1		4
+(Reporting By Vrinda Manocha in Bangalore; Editing by Roshni Menon)					4

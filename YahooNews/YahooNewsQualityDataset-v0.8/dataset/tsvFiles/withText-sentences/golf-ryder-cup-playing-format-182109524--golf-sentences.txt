@@ -1,0 +1,15 @@
+Golf-Ryder Cup playing format	1	1	1		5
+MEDINAH, Illinois, Sept 24 (Reuters) - This week's Ryder Cup between hosts the United States and holders Europe will be played on the par-72 Course No. 3 at Medinah Country Club from Friday to Sunday.	1	1	1		5
+Each team has 12 players and a total of 28 matches will take place, culminating with 12 singles on the final day.	1	1	1		5
+The first two days will feature a mix of foursomes and fourball matches, with the order of play determined through agreement by United States captain Davis Love III and his European counterpart Jose Maria Olazabal.	1	1	1		5
+Foursomes matches involve two-man teams, with each team playing one ball.	1	1	1		5
+The players take alternate shots until the hole is completed.	1	1	1		5
+The lower of the two scores wins the hole.	1	2	1		5
+If the same number of shots on both sides is recorded, the hole is halved.	1	1	1		5
+One player will hit the tee shot on odd-numbered holes with his team mate teeing off first on the even-numbered holes.	1	1	1		5
+Fourball matches involve two-man teams with each player playing his own ball and completing the hole.	1	1	1		5
+The best score of the four wins the hole.	1	2	1		5
+In singles matches, the result is decided when one player leads by more holes than there are holes left to play.	1	1	1		5
+Team captains submit their order of play before each round to a tournament official.	1	1	1		5
+The lists from each captain are then matched, resulting in the pairings.	                                         1	                                                      1	1		5
+(Writing by Mark Lamport-Stokes; Editing by Frank Pingue)				I	5

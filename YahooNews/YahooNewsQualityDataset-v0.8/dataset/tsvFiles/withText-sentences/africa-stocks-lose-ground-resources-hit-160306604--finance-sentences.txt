@@ -1,0 +1,20 @@
+S.Africa stocks lose ground as resources hit	1	1	2		4
+JOHANNESBURG (Reuters) - South African stocks edged down 0.5 percent on Friday, as investors hit Harmony Gold on the stronger rand and Anglo American Platinum on concerns over labour unrest.	1	1	2		4
+Shares of Telkom SA slumped 5.5 percent to 18.30 rand, adding to a similar fall on Thursday when the fixed-line operator warned that first-half profits will likely fall by nearly 65 percent.	2	1	2		4
+"I think the rand played a key factor here today," said Sasha Naryshkine, analyst at asset manager Vestact.	2	1	1		4
+"It firmed up and has hurt gold and platinum stocks."	1	1	2		4
+The benchmark Top-40 index declined 0.46 percent to 31,934.87.	1	1	2		4
+It hit a record high of 32,381.54	1	2	1	S	4
+last week.	1	1	1	S	4
+The broader All-share index dropped 0.42 percent to 36,206.33.	1	1	2		4
+It hit a record high earlier this week.	1	2	1		4
+The rand currency rose nearly 1 percent on Friday.	1	2	1		4
+A stronger rand is a negative for mining companies, which sell metal for dollars but pay costs in the rand.	1	2	2		4
+Harmony Gold tumbled 4.8 percent to 74.41 rand.	1	1	2		4
+The bulk of its production comes from South Africa, making Harmony the most sensitive of major gold producers to movements in the currency.	1	1	2		4
+Shares of Anglo American Platinum fell 1.8 percent to 440.79 rand.	1	1	2		4
+Wildcat strikes continued at four of the company's mines on Friday, with less than 20 percent of the workforce reporting for duty.	1	1	2		4
+The world's top platinum producer said in a statement it required all employees to return by the late shift on Monday or face legal action.	1	1	2		4
+Shares of African Rainbow Minerals fell 3.5 percent to 167.50 rand after it traded ex-dividend, or without the right to its latest dividend.	1	1	2		4
+Trade was active, with 179 million shares changing hands on the bourse.	1	1	1		4
+Volume on the All-share have averaged 176 million shares a day over the last three months, according to Thomson Reuters data.	1	1	1		4

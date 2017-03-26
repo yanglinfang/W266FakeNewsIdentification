@@ -1,0 +1,8 @@
+Hon Hai says disturbance at Foxconn China plant	1	1	2		4
+TAIPEI (Reuters) - Taiwan's Foxconn Technology Group said a fight among workers from different production lines occurred at its Taiyuan plant in northern China early on Monday morning.	2	1	2		4
+Foxconn is the trading name of Hon Hai Precision Industry Co, and is the world's largest contract maker of electronic goods.	1	1	1		4
+"The fight is over now ... we're still investigating the cause of the fight and the number of people involved," said Foxconn spokesman Louis Woo.	2	1	2		4
+He said the fight happened in the workers' dormitory facilities.	2	1	2		4
+He said the company will issue a statement later on Monday.	2	1	2		4
+The Taiyuan plant makes parts for automotive electronics as well as a variety of other electronic parts.	1	1	1		4
+(Reporting by Clare Jim; Editing by Jonathan Standing)				I	4

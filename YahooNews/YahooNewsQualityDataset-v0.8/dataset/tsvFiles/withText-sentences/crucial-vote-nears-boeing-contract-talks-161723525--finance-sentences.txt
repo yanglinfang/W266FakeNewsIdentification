@@ -1,0 +1,71 @@
+Crucial vote nears in Boeing contract talks	2	1	1		2
+SEATTLE (Reuters) - One of Boeing's chief labor unions staged rallies in and around Seattle this week, calling attention to a vote set for Monday that will show whether workers are willing to accept a less generous contract offered by Boeing Co or move closer to a strike.				i	2
+Hundreds of engineers and technicians marched at the company's two plants, its downtown Seattle office and other facilities with signs saying "Boeing: Hands Off My Healthcare" and "We Delivered.	1	1	1	s	2
+Will Boeing?"	1	1	1	s	2
+It was the most visible sign of rising tension over contracts covering 23,000 members of the Society of Professional Engineering Employees in Aerospace.	2	1	1		2
+The contracts, which affect two bargaining units, expire on October 6, and a separate vote would be needed to authorize a strike.	1	1	1		2
+Though the union is widely expected to vote down the current offer, local officials and analysts consider a strike unlikely, because both sides have so much to lose and workers can keep using the current contract even after it expires.	3	2	2		2
+Stan Sorscher, a Speea labor representative and former engineer, estimated the chance of a strike at 35 percent.	2	1	1		2
+Scott Hamilton, managing director at consulting firm Leeham Co., said Boeing likely will make a second contract offer and that will restart negotiations.	2	1	1		2
+"We believe we can get to an agreement," said Doug Alder, a Boeing spokesman.	3	2	1		2
+"Nobody here is talking about" a strike.	2	1	1		2
+"Nobody wants that."	3	1	1		2
+Still officials and analysts say it is worrying that Boeing's first offer is going to a vote amid worker rallies.	1	1	1		2
+REASONS TO AGREE				i	2
+Boeing has a backlog of 4,057 orders, and is racing to speed up its factories to make more jets, especially 787 Dreamliners, whose customers have been waiting through years of delays.	1	1	2		2
+Boeing also is deciding on specifications for a new derivative of its popular 777.	2	2	1		2
+And it needs engineers to help repair a number of 787s that rolled off the line with flaws and must be fixed before they can be delivered.	1	1	2		2
+While in limbo, the jets weigh on Boeing's financial performance, analysts said.	1	1	1		2
+"A strike by Speea would cripple Boeing," said Ray Goforth, Speea's executive director.	3	1	2		2
+"They cannot deliver airplanes without our members" who are involved in certifying jets before they go to customers.	2	1	1		2
+For the union, a strike could reduce its relevance and its ranks, which already are under pressure from retirement of senior workers and outsourcing.	2	1	2		2
+Boeing has moved large amounts of engineering work to its suppliers and aims to move more despite the technical problems and cost overruns that resulted from using foreign engineers for the 787.	1	1	2		2
+Various engineering groups did not coordinate well, and key pieces, such as wings, did not work well and needed to be re-engineered.	1	1	2		2
+Boeing attributes those problems at least in part to flawed execution of the distributed engineering model, not the model itself, and says it will continue to tap engineers from anywhere, even if not from Speea's mostly Puget Sound workforce.	1	1	2		2
+Goforth, the Speea leader, said the union could do damage without a strike, by having engineers "work-to-rule" - refusing overtime and following all procedures.	2	1	2		2
+"Boeing has more rules, regulations and guidelines than any company I've ever seen," he said.	4	1	1		2
+"If the employees start strictly complying with all of them, you'd see productions problems immediately and the employees would still be collecting paychecks."	3	1	2		2
+Investors and customers could lose in either scenario.	2	1	2		2
+Boeing's stock price, which closed at $69.60 on Friday, up 12 percent in the last year, likely would fall, and plane deliveries would be delayed.	2	1	3		2
+"I hope they resolve it," Tim Clark, president of Emirates airline, Boeing's biggest 777 customer with 75 unfilled orders, said of the labor trouble while in Seattle on Thursday.	2	2	1		2
+"I hope our orders and those of others help give them a way through."	2	2	1		2
+RETIREMENT EFFECT				i	2
+The two sides face another issue: Age.	1	1	1		2
+More than 40 percent of Boeing's engineers will be eligible to retire in five years.	1	1	1		2
+These experienced problem-solvers are referred to as the "bow wave," because once they depart, Boeing has relatively few experienced engineers behind them to take over.	2	2	2		2
+Boeing actively recruits engineers at all levels.	1	2	1		2
+"Our goal is to always retain the best talent and to hire the best talent," Alder said.	2	3	1		2
+Yet engineers with experience working on several different jet programs will be harder to find once older workers retire.	2	1	1		2
+Engineering skill is "fast dwindling" across the aerospace and defense industries, says Tom Captain, an analyst at Deloitte.	3	1	1		2
+"If you go to the website of any aerospace company, you'll see tons of openings for engineers.	3	1	1		2
+We can't fill the jobs that we need to fill right now."	2	1	1		2
+Using figures from Boeing, Speea calculates that 42 percent of its engineers are age 50 or older, and could retire starting at 55.	2	1	1		2
+Among the lower-paid technicians, 56 percent are 50 or older.	1	1	1		2
+The recession kept older engineers working - a few are in their 70s and 80s.	1	1	1		2
+Now, as the economy improves, older workers will retire, Captain predicts.	3	2	1		2
+"The people who are most valuable and able to mentor and teach the younger ones are retiring because of age," he says.	2	2	1		2
+Retirees also will push down the average wage of the remaining workers.	1	1	1		2
+The union says the average annual engineer income is $110,000.	1	1	1		2
+That should fall in coming years, since the average salary of new and re-hired engineers is $81,000, according to Speea's calculations using records from Boeing.	2	1	1		2
+"Each retiree-replacement is hired at a lower salary than the retiree they are replacing, which drops the average salary of the entire unit slightly," said Matt Kempf, Speea's benefits director.	1	1	2		2
+MORE BARGAINING				i	2
+Local officials say they are puzzled at how the situation has unfolded.	3	1	1		2
+Some compare the current tension to 2008, when they say Boeing's Chicago leaders thought the offer to the machinists union would be accepted by members.	2	1	1		2
+The members soundly rejected it, and later voted to go on a costly, bitter, 57-day strike.	2	1	3		2
+"I think Chicago is making the same mistake with Speea," said Hamilton, at Leeham, referring to the company's Midwestern headquarters.	3	1	2		2
+He thinks members will strongly reject the contract.	3	1	1		2
+Similarly, the union's moves are seen as unusually strident.	2	1	1		2
+Boeing's contract offers raises of 3.5 percent every year for engineers for four years.	1	1	1		2
+The offer also asks employees to pay more of the cost for healthcare - a concession many workers are making in an economy with unemployment above 8 percent.	1	1	1		2
+"We would ask them to pay more and the company would also be paying more," Alder said.	2	2	2		2
+"Our goal is to maintain the current plan.	2	1	1		2
+Any increase in medical costs would be offset by the increase in salary."	2	2	2		2
+The union says the contract also would allow Boeing to eliminate medical benefits for retired employees, a charge Boeing denies.	2	2	2		2
+"Boeing has no plans to eliminate retiree medical benefits for current retirees," the company said.	2	2	1		2
+Alder said that questions about wording would have been discussed had the sides stayed at the bargaining table.	3	1	1		2
+The union says the tone of the talks changed after commercial airplanes chief Jim Albaugh, a former engineer, stepped down abruptly in June, and was succeeded by Ray Conner, a sales and support vice president.	2	1	1		2
+The union says it is now dealing mostly with negotiators from Chicago, rather than local officials that they know.	2	1	1		2
+Boeing says the negotiating team is unchanged and the company is eager to resume talks, right after Monday's vote, to agree on a new contract.	2	2	1		2
+"We'll be waiting on the vote," Alder said.	2	1	1		2
+"If it's 'No,' our number one goal is to get back to the table on Tuesday."	2	2	2		2
+(Reporting by Alwyn Scott; Editing by Ed Tobin and Sandra Maler)				i	2

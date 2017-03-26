@@ -1,0 +1,26 @@
+Biogen's hemophilia drug meets late-stage trial goal	1	1	1		4
+(Reuters) - Biogen Idec Inc said on Wednesday its experimental treatment for patients with Hemophilia B, a rare inherited blood disorder that impairs blood coagulation, met the main goal of controlling bleeding in a late-stage trial.	2	2	2		4
+A single injection of the long-lasting clotting factor, being developed in partnership with Swedish Orphan Biovitrum, controlled bleeding in 90.4 percent of all bleeding episodes.	1	1	1		4
+Biogen, whose shares rose as much as 2.7 percent initially, said it plans to submit an approval application to the U.S. Food and Drug Administration in the first half of 2013.	2	2	1		4
+The study, known as B-LONG, enrolled 123 male patients age 12 and older, divided into four groups that were treated at different intervals.	1	1	1		4
+Overall, 93.5 percent of patients completed the study.	1	1	1		4
+The companies said the treatment was generally well tolerated, but one serious side effect was reported.	2	3	2		4
+The most common side effects were nasopharyngitis, influenza, joint pain, upper respiratory infection, hypertension and headache.	2	1	2		4
+They said they expect to file an application with European health authorities after completion of a study in children younger than 12 years old, as required by the European Medicines Agency.	2	1	1		4
+Hemophilia B is one of two forms of the disease, affecting about 4,000 people in the United States and some 25,000 worldwide.	1	1	2		4
+The company is also testing a drug for Hemophilia A, a more common form of the disease that affects about 16,000 people in the United States and 400,000 worldwide.	1	1	2		4
+It expects to present results from the hemophilia A trial by the end of the year.	2	2	1		4
+Hemophilia B is caused by a lack, or insufficient amount, of the blood coagulation factor IX protein, needed for normal blood clotting.	1	1	2		4
+Patients with hemophilia A lack or have reduced levels of coagulation factor VIII.	1	1	1		4
+There are currently multiple hemophilia treatments on the market, but they must generally be given multiple times per week by infusion.	1	1	1		4
+Hemophiliacs, including children, are taught to inject themselves in a burdensome process that involves finding a vein and sticking a butterfly needle into it.	2	1	3		4
+Current treatments for hemophilia B generate about $1 billion a year, according to Biogen, while the market for hemophilia A is worth about $5 billion.	1	1	1		4
+Biogen's products are designed to cut the number of infusions needed to control bleeding.	1	1	1		4
+Existing Factor VIII products must be taken as many as three to four times a week.	1	1	1		4
+Factor IX products must be taken intravenously two or three times a week.	1	1	1		4
+The B-LONG trial showed that patients taking Biogen's drug needed to inject themselves only once every two weeks, an improvement that Geoff Meacham, an analyst at J.P. Morgan, said could be "game changing" based on physician feedback.	3	3	1		4
+However, Meacham said that while the data is encouraging, "hemophilia is a new disease area for Biogen, so there is some commercial risk associated with the potential launch."	2	2	2		4
+Biogen is a leader in the field of multiple sclerosis.	1	1	1		4
+It already sells the injectible drugs Avonex and Tysabri and expects to introduce an oral drug, currently known as BG-12, shortly.	1	1	1		4
+The company's shares rose 1.9 percent, or $3.05, to $155.89 in mid-morning trading on Nasdaq.	1	1	1		4
+(Additional reporting by Esha Dey in Bangalore and Debra Sherman in Chicago; Editing by Maureen Bavdek)				I	4

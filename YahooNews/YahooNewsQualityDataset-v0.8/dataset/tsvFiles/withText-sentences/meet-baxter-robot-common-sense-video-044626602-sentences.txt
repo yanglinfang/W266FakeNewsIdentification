@@ -1,0 +1,16 @@
+Meet Baxter: A Robot With Common Sense [VIDEO]	2	1	1		4
+Baxter is like most reliable employees -- he uses common sense to do his job, and works well with others -- except, he's a robot.	3	2	1		4
+To be precise, Baxter robots are a new line of androids that can apply common sense behavior in manufacturing workplaces.	2	1	1		4
+Developed by Boston-based Rethink Robotics, Baxter automatically adapts to changing environments through cameras, sensors and software that enable it to "'see' objects, 'feel' forces and 'understand' tasks," according to the company's website.	1	1	1		4
+For this reason, Rethink claims that Baxter robots can safely work alongside humans.	2	1	1		4
+They can also be trained like a person, with the robots capable of juggling multiple tasks, and learning a new one in less than 30 minutes (Check out the video above to see them in action).	1	1	1		4
+Priced at $22,000 and with no integration required, Baxter robots are "a fraction of the cost of a traditional industrial robot," according to Rethink.	2	1	1		4
+"Baxter was specifically designed to be affordable for mid-size and small manufacturers, companies that have never been able to afford robots before."	2	1	1		4
+"We [can] offer new hope to the millions of American manufacturers who are looking for innovative ways to compete in our global economy."	3	2	1		4
+The androids are ready to start work in less than one hour after they hit the factory floor, the company adds.	2	1	1		4
+Baxter is a complete, self-contained system with application software that can be updated.	1	1	1		4
+Rethink says it plans to offer a software development kit in early 2013 for those who want to make use of the technology.	1	1	1		4
+Unveiled Tuesday, the robots are available on pre-order; first product shipments will begin this October.	1	1	1		4
+Do you think Baxter robots will foster cooperation or competition?	1	1	1		4
+Give us your take in the comments below.	1	1	1		4
+This story originally published on Mashable here.				I	4

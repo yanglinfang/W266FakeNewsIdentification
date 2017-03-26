@@ -1,0 +1,25 @@
+Chevron says Richmond repair time unknown	1	1	1		3
+RICHMOND, California (Reuters) - Chevron Corp needs a few more weeks to assess damage at its plant in Richmond, California, and does not yet know how long it will need to repair its crude unit after an early August fire damaged the state's second-biggest refinery, its general manager said on Monday.				i	3
+The 245,000 barrels-per-day plant, which accounts for one-eighth of California's refining capacity, has run at a "reduced" rate since the fire, and this has risen only marginally since then, General Manager Nigel Hearne said in an interview.	2	1	1		3
+The lower throughput caused a jump in gasoline prices in California as traders scrambled to find alternative supplies.	2	1	1		3
+The crude unit shutdown has left California, which consumes more gasoline than any other U.S. state, vulnerable to price spikes when any of the state's 15 refineries have problems.	1	1	2		3
+The cause of the fire is also of great concern for the people living near the refinery.	2	1	3		3
+While investigations are still under way, the focus has centered on a failed pipe component less than 5 feet long.	1	1	1		3
+More than 200 residents gathered in a Richmond auditorium on Monday night to ask questions of the various regulatory bodies investigating the fire.	1	1	1		3
+Chemical Safety Board investigator Steve Cutchen said sections of the wall of the pipe had thinned to 20 percent of its design, and called the accident a "close call" that "could have been far worse."	3	1	1		3
+Chevron said this pipe had a low-silicon content, making it more susceptible to corrosion, which was understood by its technical staff but not acted upon.	2	1	1		3
+"Clearly it wasn't, so the question is why wasn't it," Hearne said in the interview.	3	1	1		3
+PLANT STILL UNDER INVESTIGATION				i	3
+Chevron found that, in a scheduled maintenance in November 2011, the 200 feet of piping in question had been inspected in 19 different locations, but not the component that failed.	1	1	1		3
+Asked how long the plant would be down, Hearne said assessments of the damage would need to be completed in the "next few weeks" to establish the timeline for repairs.	1	1	1		3
+"We're still in the process of fully inspecting the plant," he said, including every individual component in carbon steel systems exposed to the same "high-temperature sulfidation corrosion" that it believes affected the pipe.	2	1	1		3
+Full access to the refinery had just been opened up by investigators.	1	1	1		3
+Analysts had expected repairs to the refinery's crude distillation unit, known as Crude Unit No. 4, to take between 3 months and 6 months.	1	1	1		3
+The hydrocarbons being processed at the plant were being provided by both the market and Chevron's other U.S. refineries, he added.	1	1	1		3
+The Richmond refinery, Chevron's oldest, opened 110 years ago.	1	1	1		3
+On Sunday, the San Francisco Chronicle reported the plant was being investigated by the U.S. Environmental Protection Agency over a 3-inch (7.6-centimeter) pipe that let emissions bypass pollution control equipment.	1	1	1		3
+An EPA representative told the meeting on Monday that he could not give any timeline on that investigation, which is not related to the fire.	1	1	1		3
+Hearne said the pipe was not a deliberate design, and had been in place before the implementation of monitoring of flaring at the refinery.	1	1	1		3
+Chevron advised air quality regulators of the pipe three years ago, and had reviewed the rest of the refinery to make sure there were no similar lines elsewhere.	1	1	1		3
+But Loni Hancock, the California state senator for the local area, summed up the exasperation of many residents about the 3-inch pipe when she told the meeting on Monday night: "Whether inadvertent or deliberate, there's got to be a way to ensure that never happens again."				i	3
+(Reporting by Braden Reddall in Richmond and Erwin Seba in Houston; Editing by Andre Grenon, Gary Hill and Miral Fahmy)				i	3

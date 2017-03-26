@@ -1,0 +1,21 @@
+'Deceased' Conn. Voter Found Alive, Can't Break Tie	1	2	2		3
+A Connecticut judge sought to break a tie between two primary candidates for the General Assembly by opening an uncounted sealed ballot in court Wednesday, only to discover that the voter-once thought to be dead-had cast a ballot for a third candidate in the race.	1	2	2		3
+The absentee ballot, which many believed would determine the race, was originally set aside by election officials in the belief that the woman was deceased.	1	1	1		3
+Some searching revealed that the elderly woman was living in a nursing home and thus was eligible to vote.	1	1	1		3
+The hushed courtroom erupted into laughter on Wednesday, according to the Hartford Courant, after weeks of suspense, courtroom drama and fierce debate ended and it was revealed that the vote would remain deadlocked and a new election would still be necessary.	1	3	2		3
+Election officials had twice recounted the votes in a Democratic primary for the 5 th General Assembly District, an area that includes Hartford and Windsor, before Wednesday's proceedings.	1	1	1		3
+Following the initial count on election night on Aug. 14, candidates Brandon McGee and Leo Canty were tied with 774 votes a piece.	1	1	1		3
+According to state election officials, a new vote could have been ordered then if all parties agreed.	1	1	1		3
+Instead, McGee demanded a recount, according to Av Harris, spokesman for the Connecticut secretary of state.	2	1	2		3
+The results of that count put Canty ahead by one vote, leading McGee to sue.	1	1	2		3
+The judge ordered a second recount, resulting in the discovery of two previously uncounted ballots.	1	2	1		3
+One ballot cast a vote for McGee, leading again to a tie.	1	1	1		3
+The second ballot was marked "deceased" and that was the one opened in court.	1	1	1		3
+Judge A. Susan Peck on Tuesday ordered that the name of the voter would not be made public to keep her vote secret.	1	1	1		3
+She opened the ballot in court, revealing a vote for Windsor Mayor Donald Trinks, who finished a distant third.	1	1	2		3
+"The court has to balance the privacy rights of the voter against the rights of the voters of the 5th District to have the race determined," Peck said, according to the Courant.	1	2	1		3
+"It is pretty ironic," said Harris, whose office certifies elections in the state.	2	1	2		3
+"This could have been resolved three weeks after the election with a revote.	2	1	2		3
+Now, we're just doing it anyway, only two months later."	2	1	3		3
+Judge Peck ordered a new election.	1	1	1		3
+Officials say that vote will be held Oct. 2, and only those voters who previously cast ballots will be allowed to participate.	1	1	1		3

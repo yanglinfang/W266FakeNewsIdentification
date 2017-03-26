@@ -1,0 +1,40 @@
+How Much Bandwidth Will the Vice Presidential Debate Need?	1	1	1		4
+Centre College in Danville, Ky. is home to this year's vice presidential debate.	1	1	1		4
+With thousands of attendees, campaign staff and reporters -- and all of their smartphones, tablets, laptops and other connected gear -- descending on campus Oct. 11, it takes impressive technology and a coordinated effort to keep the data running smoothly.	2	1	1		4
+[More from Mashable: Our iPhones Are Depleting the Earth’s Resources [INFOGRAPHIC]]				I	4
+To give an idea of the challenge, the college's IT crew is expecting approximately 1,500-2,000 wireless-connected devices at any given time, with an average 2.5 wireless devices per attendee -- and that doesn't count the computers and other equipment that calls for a hardline connection.	2	1	1		4
+It's also, the team admits, an estimation.	2	1	1		4
+"Bandwidth is a big guess," said Shane Wilson, coordinator of Network Services at Centre College.	2	1	1		4
+"The only data we have is from 2008, and that's basically ancient history.	2	1	1		4
+We feel very confident about 2 gigabits of bandwidth."	2	1	1		4
+[More from Mashable: Behind the Social Media Campaigns of Obama and Romney]				I	4
+How is the college preparing to deliver problem-free data connections?	2	1	1		4
+To make sure there's enough bandwidth to go around, Centre College will be temporarily expanding its Internet connection from 250 megabits to 2 gigabits.	1	1	1		4
+That's an eightfold increase using two single-gigabit links running simultaneously.	1	1	1		4
+Mobile providers are also bringing in trucks to help boost the mobile phone and data signals in the immediate area.	1	1	1		4
+And what about network problems?	2	1	1		4
+For network engineers concerned about stability during a high-traffic event, redundancy is the name of the game.	2	1	1		4
+Accordingly, Centre Network worked with several vendors to set up a temporary network that's running separate from the campus network.	1	1	1		4
+The new network is fully redundant with four routers, multiple backbone links and multiple core paths, giving Centre College's IT staff the ability to quickly adapt is something goes wrong on debate day.	1	1	1		4
+There's also a power redundancy -- the debate hall is run on a diesel generator, but it can be quickly switched to standard line power if there's a problem (it's quicker to switch from diesel to electric than vice-versa).	2	1	1		4
+And like a military tanker jet high above a field of combat, diesel gas trucks will be waiting nearby in case they need to refuel.	3	1	1		4
+And what if something goes wrong on the provider side, like physical damage to fiber?	2	1	2		4
+The college's staff will have support cases with CISCO, AT&T and Time Warner Cable open in advance, drastically speeding up any necessary repairs.	2	1	1		4
+AT&T and Time Warner will also have trained technicians on site, ready to go in case of an emergency -- think of them as network first responders.	1	1	1		4
+With so many connected devices, security is surely a concern.	3	1	1		4
+Centre College's staff says they'll be using separate VLAN SSID networks for each of the campaigns as well for the media and other major groups involved with the debate.	1	1	1		4
+Each network will use encrypted 802.11x to help keep the campaigns from spying on one another's traffic and the media from spying on the campaigns' traffic.	1	1	1		4
+Will it all work?	2	1	1		4
+On Thursday afternoon, Centre College invited about 120 faculty, staff and students to help test the network and look for problems.	1	1	1		4
+A few were found and quickly fixed -- a result that built confidence among the Centre College team.	1	2	1		4
+"We discovered problems and corrected them -- and that was the goal," said Wilson.	2	2	2		4
+"I feel much better than if everything had gone smoothly.	3	2	1		4
+If that happened, I would've wondered what was left uncovered."	2	1	1		4
+The tech involved in running a nationally-televised debate has drastically changed in the last 12 years, said Art Moore, Centre College's director of information technology services.	2	1	1		4
+Moore was at the college when it hosted the 2000 vice presidential debate between Dick Cheney and Joe Lieberman.	1	1	1		4
+"The world completely has changed in the last 12 years, when it was all about analog telephone lines," said Moore.	2	1	1		4
+"The media then was doing dial-up to get Internet access.	1	1	1		4
+We provided phone lines... and gave one data line each to the campaign workspaces.	2	1	1		4
+We didn't even have laptops in 2000."	2	1	1		4
+Images courtesy of Flickr, Center for American Progress Action Fund, Gage Skidmore				I	4
+This story originally published on Mashable here.				I	4

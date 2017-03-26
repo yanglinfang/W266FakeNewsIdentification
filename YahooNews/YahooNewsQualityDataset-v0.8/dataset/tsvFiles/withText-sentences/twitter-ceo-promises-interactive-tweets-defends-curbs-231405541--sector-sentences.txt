@@ -1,0 +1,23 @@
+Twitter CEO promises interactive tweets, defends curbs	2	2	1		4
+SAN FRANCISCO (Reuters) - Twitter will soon roll out a free tool for users to handpick and publish selections of tweets, reflecting the company's commitment to remain a neutral, interactive platform rather than become a media company, CEO Dick Costolo said Friday.	2	1	1		4
+The new tool will allow users, including journalists, to manually curate and display tweets to accompany breaking news events.	1	1	1		4
+"We've known for a long time that for events in the real world, the shared experience is on Twitter," Costolo said at the Online News Association conference in San Francisco.	2	1	1		4
+"We want to create an ability to curate those events."	3	2	1		4
+Costolo dismissed speculation that Twitter had plans to operate like a traditional media company, following a recent move to restrict access to tweets only through its website or official app.	1	1	1		4
+Previously, many users could read tweets through third-party applications with extra features.	1	1	1		4
+Observers had widely predicted that Twitter, founded in 2006, is intent on treating its stream of published tweets much like a traditional media product that it has full control over, and which it can charge for advertising.	2	1	1		4
+"It's not about being a destination," Costolo said.	2	1	1		4
+"I'm a huge believer in syndication.	3	1	1		4
+Platform companies always outflank and outlast point solutions and individual products."	2	1	1		4
+The decision to tighten control over tweets came after the company realized it had invested significant resources in its service, but other companies were making money off of it without adding "accretive value," Costolo said.	2	2	2		4
+"We were spending all this money" eliminate fake accounts and improve the Twitter experience, Costolo said, but users still had a "choice" of "experiences."	2	2	2		4
+Fake accounts may be created by spammers or impersonators.	2	1	2		4
+But the company has promised to unlock Twitter's full interactive potential once it has regained control over how users access Twitter across desktop computers and mobile devices.	2	2	1		4
+Soon, users will see tweet boxes, known as cards, include live features that will look nothing like the 140-character messages units that they evolved in the early days of the service.	2	1	1		4
+Costolo offered examples of interactive features, such as live polls for the NBA All Star game showing real-time results directly within a tweet box.	1	1	1		4
+"We want to migrate to a world in which the 140 characters can serve as a caption for additional functionality," Costolo said.	2	1	1		4
+"We'd like that to include things like real-time data, even an application functionality."	2	1	1		4
+One of the services available on third-party clients but not from Twitter itself - the ability for a user to download the full archive of his or her tweets - will be available by the end of the year, Costolo predicted.	2	1	1		4
+In the hour-long talk, Costolo also revealed the scorching pace of expansion at his company.	2	1	1		4
+Twitter, which relocated into new offices in central San Francisco in July, now boasts 1,300 employees, more than three times its headcount just 18 months.	1	1	1		4
+(Reporting By Gerry Shih; Editing by Richard Chang)				I	4

@@ -1,0 +1,39 @@
+Data suggest US economy growing only modestly	2	1	2		4
+WASHINGTON (AP) — A spate of data Thursday painted a mixed picture of the U.S. economy: Demand for long-lasting manufactured goods fell and slightly fewer people signed contracts to buy homes.	2	1	1		4
+At the same time, the job market looked a little better.	1	2	1		4
+Taken together, the reports suggest the economy is growing only modestly and not quickly enough to spur much hiring.	1	1	2		4
+"The economy overall has only weak forward momentum," Nigel Gault, chief U.S. economist at IHS Global Insight, said in a note to clients.	1	1	2		4
+"The news from housing may be improving, but manufacturing is struggling now."	2	1	2		4
+Most of the data seemed discouraging on the surface.	2	1	2		4
+But a closer inspection of the details offered some promise.	1	2	1		4
+— Companies cut orders for long-lasting goods by 13.2 percent in August, the Commerce Department said.	1	1	1		4
+That was the biggest drop in more than three years but it was largely influenced by a 102 percent decline in volatile aircraft orders.	2	1	2		4
+Excluding transportation equipment, orders fell only 1.6 percent.	1	1	1		4
+And in a positive sign, orders in a category that reflect business investment plans rose 1.1 percent, the first increase since May.	1	2	1		4
+— The overall economy grew at a 1.3 percent annual rate in the April-June quarter, much lower than the 1.7 percent the government previously estimated.	1	1	1		4
+About half of the downward revision stemmed from the severe drought in the Midwest, which cut overall farm output.	1	1	1		4
+But growth also fell because exports and consumer spending expanded at a slower pace.	1	1	1		4
+— The number of Americans who signed contracts to buy previously occupied homes fell in August from a two-year high in July.	1	1	1		4
+The National Association of Realtors said its index of sales agreements declined 2.6 percent to 99.2.	1	1	1		4
+That's just below the reading of 100 that is considered healthy.	2	1	1		4
+Still, the index is 10.7 percent higher than a year ago.	1	1	1		4
+Economists expect growth to hover near or below 2 percent for the rest of the year.	1	1	1		4
+That's typically too weak to create enough jobs to lower the unemployment rate.	1	1	2		4
+One report appeared to offer some hope that the job market will improve.	2	2	1		4
+Weekly applications for unemployment benefits plunged 26,000 to a seasonally adjusted 359,000, the lowest level in two months, the Labor Department said.	1	1	1		4
+The four-week average, a less volatile measure, fell to 374,000.	1	1	1		4
+Applications are a measure of the pace of layoffs.	1	1	1		4
+When they consistently fall below 375,000, it typically indicates that hiring is strong enough to lower the unemployment rate.	1	2	1		4
+The weekly figures can be volatile, causing most economists to focus on the four-week average.	2	1	1		4
+Economists were mildly encouraged by the unemployment applications.	1	1	1		4
+Still, many still expect the government's employment report for September to show only modest job gains, perhaps about 100,000.	2	1	1		4
+That's about the same as in August.	1	1	1		4
+The September jobs report will be released next week.	1	1	1		4
+The September jobs report will be released next Friday.	1	1	1		4
+The past few reports on applications for unemployment benefits "suggest no significant acceleration or deceleration in employment growth," said Jim O'Sullivan, an economist at High Frequency Economics.	2	1	1		4
+A survey of chief executives, released Wednesday, found a sharp drop in the number of large companies that plan to step up hiring or boost investment in the next six months.	1	1	2		4
+They cited worries over tax and budget policies in the United States and slower growth in Europe and China for the gloomier outlook.	2	1	2		4
+Some recent indicators have been more optimistic.	1	2	1		4
+Consumer confidence jumped to a seven-month high in September, the Conference Board said Tuesday.	1	2	1		4
+Home prices are rising steadily nationwide.	1	1	1		4
+And sales of new homes remained near a two-year high in August, the Commerce Department said Wednesday.	1	1	1		4

@@ -1,0 +1,18 @@
+Bernanke makes strong defense of Fed rate policies	2	1	1		4
+WASHINGTON (AP) — Chairman Ben Bernanke offered a sharp defense Monday of the Federal Reserve's bold policies to stimulate the weak economy, while cautioning Congress to respect its private discussions.	2	2	2		4
+The Fed needs to drive down borrowing rates low because the economy isn't growing fast enough to reduce high unemployment, Bernanke said in a speech to the Indiana Economics Club.	3	1	2		4
+The unemployment rate is 8.1 percent.	1	1	1		4
+Low rates could help lower the federal budget deficit by reducing the government's borrowing costs and generating more tax revenue through stronger growth, Bernanke said.	2	2	1		4
+Bernanke also cautioned Congress against changing the law so it could review the Fed's interest-rate policy discussions.	2	1	1		4
+Such a step would improperly inject political pressure into those talks and make Fed policymakers less likely to act, Bernanke warns.	2	1	2		4
+The speech comes just weeks after the Fed voted at its Sept. 12-13 meeting to purchase mortgage bonds to help boost the housing market.	1	2	1		4
+The Fed left the program open ended, saying that it would keep buying the bonds until the job market showed substantial improvement.	2	2	1		4
+The Fed also said at the September meeting it plans to keep its benchmark short-term interest rate near zero through at least mid-2015.	1	1	1		4
+Bernanke spoke two days before President Barack Obama and GOP challenger Mitt Romney will hold a debate in which the economy is a central theme.	1	1	1		4
+And his speech comes four days before the government releases its September job figures.	1	1	1		4
+Economists expect just modest hiring gains and continued unemployment above 8 percent.	1	2	2		4
+The U.S. economy is struggling more than three years after the Great Recession ended.	1	1	2		4
+High unemployment and weak pay growth has made consumers more cautious about spending, which has hurt manufacturing and slowed broader growth.	3	1	2		4
+The Fed is hoping to make home buying more attractive to help the broader economy.	2	2	1		4
+When home prices rise, people typically feel wealthier and spend more.	1	2	1		4
+Consumer spending drives nearly 70 percent of economic activity.	1	1	1		4

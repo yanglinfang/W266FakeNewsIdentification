@@ -1,0 +1,8 @@
+Facebook begins testing automatic photo sync feature on Android	1	1	1		5
+Facebook (FB) has begun testing a new photo sync feature in its Android application that will automatically upload photos taken to the Web.	1	1	1		5
+The company’s photo sync service will store any picture taken with an Android device in a private “Synced from Phone” folder on Facebook.	1	1	1		5
+Once photos have been synced to the Web, users can then pick and choose which images should be shared with friends.	1	1	1		5
+The feature is similar to those found on Google+, Dropbox and Apple’s (AAPL) Photostream, all of which offer online photo syncing.	1	1	1		5
+Facebook is currently testing the feature with a small number of users and it is unclear if, or when, the social networking site will roll out photo sync globally.	1	1	1		5
+Read				I	5
+Get more from BGR.com: Follow us on Twitter, Facebook				I	5

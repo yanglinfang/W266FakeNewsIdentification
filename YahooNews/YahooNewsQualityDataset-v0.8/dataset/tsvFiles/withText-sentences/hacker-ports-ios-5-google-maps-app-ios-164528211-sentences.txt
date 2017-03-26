@@ -1,0 +1,8 @@
+Hacker ports iOS 5′s Google Maps app to iOS 6 [video]	1	1	1		
+The Maps application in iOS 6 is disappointing to say the least, and while Apple (AAPL) may be on a hiring spree to fix the problem, one iOS hacker has taken matters into his own hands.	2	1	2		
+Ryan Petrich on Sunday posted a video that demonstrates the original Google Maps program from iOS 5 running on iOS 6. Petrich revealed that he would like to release the hack to the public, however it is not yet stable enough to do so.	2	1	1		
+As expected, it is required that users have a jailbroken iPhone running iOS 6 for the port to be successful.	2	1	1		
+A video of Google Maps running on iOS 6 follows below.	1	1	1		
+[Via TheNextWeb]				I	
+Read				I	
+Get more from BGR.com: Follow us on Twitter, Facebook				I	
