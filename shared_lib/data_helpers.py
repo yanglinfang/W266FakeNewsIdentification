@@ -77,8 +77,9 @@ def load_yahoo_data(label_used):
                 articleData.append(line.split('\t'))
     columns = len(header)
     rows = len(articleData)
-    #print 'rows: ', rows,'columns: ', columns
-    #print 'header: ', header
+    print 'Loaded rows: ', rows,'columns: ', columns
+    print 'Headers: ', header
+    print 'Using label: ', label_used
     #print 'sample text: ', articleData[0][header.index('news article')]
     #print 'sample label: ', articleData[0][header.index(label_used)]
     
