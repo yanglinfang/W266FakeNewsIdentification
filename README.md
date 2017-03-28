@@ -20,3 +20,9 @@ http://bsdetector.tech/
 https://github.com/bs-detector/bs-detector
 
 http://lit.eecs.umich.edu/~deceptiondetection/
+
+Final dataset used
+http://novasearch.org/datasets/
+
+Model bentchmark
+http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/
