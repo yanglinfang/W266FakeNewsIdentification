@@ -96,4 +96,43 @@ def load_yahoo_data(label_used):
             targets.append(labels)
     y = np.concatenate(targets, 0)
     return (texts, y)
-        
+
+
+# Load data from facebook dataset
+def load_facebook_data():
+    articleData = []
+    labelStrs = []
+    with open('./text_and_labels.tsv', 'rb') as f:
+        for line in f:
+            articleData.append(line.split('\t'))
+    columns = 2
+    rows = len(articleData)
+    print 'Loaded rows: ', rows,'columns: ', columns
+    
+    texts = []
+    targets = []
+    for i in range(0, rows):
+        labelStr = articleData[i][1]
+        if labelStr != '':
+            texts.append(articleData[i][0])
+            if labelStr not in labelStrs:
+                labelStrs.append(labelStr)
+                
+            #change
+            
+            if labelStr.startswith('mostly true'):
+                target = 5
+            if labelStr.startswith('mixture of true and false'):
+                target = 3
+            if labelStr.startswith('no factual content'):
+                target = 2;
+            if labelStr.startswith('mostly false'):
+                target = 1;
+            
+            labels = [1]
+            if target <= 3:
+                labels = [0]
+            targets.append(labels)
+    y = np.concatenate(targets, 0)
+    print 'Labels evaluated ', labelStrs
+    return (texts, y)
