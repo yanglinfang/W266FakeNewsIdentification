@@ -91,7 +91,7 @@ def load_yahoo_data(label_used):
             texts.append(articleData[i][header.index('news article')])
             target = int(labelStr)
             labels = [[0,1]]
-            if target <= 3:
+            if target <= 2:
                 labels = [[1,0]]
             targets.append(labels)
     y = np.concatenate(targets, 0)
@@ -119,13 +119,13 @@ def load_facebook_data():
                 labelStrs.append(labelStr)
                 
             if labelStr.startswith('mostly true'):
-                target = 4
+                target = 5
             if labelStr.startswith('mixture of true and false'):
-                target = 0
+                target = 3
             if labelStr.startswith('no factual content'):
-                target = 0;
+                target = 2;
             if labelStr.startswith('mostly false'):
-                target = 0;
+                target = 1;
          
             labels = [1]
             if target <= 3:

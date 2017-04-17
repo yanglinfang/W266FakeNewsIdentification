@@ -40,10 +40,18 @@ if FLAGS.eval_train:
 else:
     x_raw, y_test = data_helpers.load_facebook_data()
 
+#else:
+#    x_raw = ["a masterpiece four years in the making", "everything is off."]
+#    y_test = [1, 0]
+    
 # Map data into vocabulary
 vocab_path = os.path.join(FLAGS.checkpoint_dir, "..", "vocab")
 vocab_processor = learn.preprocessing.VocabularyProcessor.restore(vocab_path)
+print("Vocabulary Size: {:d}".format(len(vocab_processor.vocabulary_)))
+
+print("Raw text Size: {:d}".format(len(x_raw[0])))
 x_test = np.array(list(vocab_processor.transform(x_raw)))
+print("Transformed text Size: {:d}".format(len(x_test[0])))
 
 print("\nEvaluating using directory...\n")
 print(FLAGS.checkpoint_dir)
@@ -59,15 +67,18 @@ with graph.as_default():
     sess = tf.Session(config=session_conf)
     with sess.as_default():
         # Load the saved meta graph and restore variables
+        print('Loading...', "{}.meta".format(checkpoint_file))
         saver = tf.train.import_meta_graph("{}.meta".format(checkpoint_file))
+        print('checkpoint_file', checkpoint_file)
         saver.restore(sess, checkpoint_file)
 
         # Get the placeholders from the graph by name
         input_x = graph.get_operation_by_name("input_x").outputs[0]
-        # input_y = graph.get_operation_by_name("input_y").outputs[0]
+        input_y = graph.get_operation_by_name("input_y").outputs[0]
         dropout_keep_prob = graph.get_operation_by_name("dropout_keep_prob").outputs[0]
 
         # Tensors we want to evaluate
+        scores = graph.get_operation_by_name("output/scores").outputs[0]
         predictions = graph.get_operation_by_name("output/predictions").outputs[0]
 
         # Generate batches for one epoch
@@ -77,13 +88,14 @@ with graph.as_default():
         all_predictions = []
 
         for x_test_batch in batches:
+            batch_scores = sess.run(scores, {input_x: x_test_batch, dropout_keep_prob: 1.0})
             batch_predictions = sess.run(predictions, {input_x: x_test_batch, dropout_keep_prob: 1.0})
+           
+            #print batch_scores
+            
             all_predictions = np.concatenate([all_predictions, batch_predictions])
-        
-        print ('Labels')
-        print (y_test)
-        print ('Predictions')
-        print (all_predictions)
+        print y_test
+        print all_predictions
 
 # Print accuracy if y_test is defined
 if y_test is not None:
@@ -91,6 +103,12 @@ if y_test is not None:
     print("Total number of test examples: {}".format(len(y_test)))
     print("Accuracy: {:g}".format(correct_predictions/float(len(y_test))))
 
+# Save the evaluation to a csv
+predictions_human_readable = np.column_stack((np.array(x_raw), all_predictions))
+out_path = os.path.join(FLAGS.checkpoint_dir, "..", "prediction.csv")
+print("Saving evaluation to {0}".format(out_path))
+with open(out_path, 'w') as f:
+    csv.writer(f).writerows(predictions_human_readable)
 # Save the evaluation to a csv
 predictions_human_readable = np.column_stack((np.array(x_raw), all_predictions))
 out_path = os.path.join(FLAGS.checkpoint_dir, "..", "prediction.csv")
