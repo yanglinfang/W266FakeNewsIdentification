@@ -118,21 +118,18 @@ def load_facebook_data():
             if labelStr not in labelStrs:
                 labelStrs.append(labelStr)
                 
-            #change
-            
             if labelStr.startswith('mostly true'):
-                target = 5
+                target = 4
             if labelStr.startswith('mixture of true and false'):
-                target = 3
+                target = 0
             if labelStr.startswith('no factual content'):
-                target = 2;
+                target = 0;
             if labelStr.startswith('mostly false'):
-                target = 1;
-            
+                target = 0;
+         
             labels = [1]
             if target <= 3:
                 labels = [0]
             targets.append(labels)
     y = np.concatenate(targets, 0)
-    print 'Labels evaluated ', labelStrs
     return (texts, y)

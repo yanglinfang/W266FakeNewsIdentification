@@ -38,15 +38,15 @@ if FLAGS.eval_train:
     x_raw, y_test = data_helpers.load_yahoo_data(FLAGS.label_used)
     y_test = np.argmax(y_test, axis=1)
 else:
-    x_raw = ["a masterpiece four years in the making", "everything is off."]
-    y_test = [1, 0]
+    x_raw, y_test = data_helpers.load_facebook_data()
 
 # Map data into vocabulary
 vocab_path = os.path.join(FLAGS.checkpoint_dir, "..", "vocab")
 vocab_processor = learn.preprocessing.VocabularyProcessor.restore(vocab_path)
 x_test = np.array(list(vocab_processor.transform(x_raw)))
 
-print("\nEvaluating...\n")
+print("\nEvaluating using directory...\n")
+print(FLAGS.checkpoint_dir)
 
 # Evaluation
 # ==================================================
@@ -79,6 +79,11 @@ with graph.as_default():
         for x_test_batch in batches:
             batch_predictions = sess.run(predictions, {input_x: x_test_batch, dropout_keep_prob: 1.0})
             all_predictions = np.concatenate([all_predictions, batch_predictions])
+        
+        print ('Labels')
+        print (y_test)
+        print ('Predictions')
+        print (all_predictions)
 
 # Print accuracy if y_test is defined
 if y_test is not None:
