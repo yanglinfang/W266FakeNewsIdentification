@@ -14,6 +14,8 @@ import data_helpers
 from text_cnn import TextCNN
 from tensorflow.contrib import learn
 
+from sklearn.model_selection import KFold, cross_val_score
+
 # Parameters
 # ==================================================
 
@@ -61,17 +63,32 @@ x = np.array(list(vocab_processor.fit_transform(x_text)))
 # Randomly shuffle data
 np.random.seed(10)
 shuffle_indices = np.random.permutation(np.arange(len(y)))
-x_shuffled = x[shuffle_indices]
-y_shuffled = y[shuffle_indices]
+k_fold = KFold(n_splits=6)
+x_train = {}
+x_dev = {}
+y_train = {}
+y_dev = {}
+i = 0
+for train_indices, dev_indices in k_fold.split(shuffle_indices):
+    print('Train: %s | dev: %s' % (len(train_indices), len(dev_indices)))
+    x_train[i], x_dev[i] = x[train_indices], x[dev_indices]
+    y_train[i], y_dev[i] = y[train_indices], y[dev_indices]
+    i = i + 1
+    
+## Randomly shuffle data
+#np.random.seed(10)
+#shuffle_indices = np.random.permutation(np.arange(len(y)))
+#x_shuffled = x[shuffle_indices]
+#y_shuffled = y[shuffle_indices]
 
 # Split train/test set
 # TODO: This is very crude, should use cross-validation
-dev_sample_index = -1 * int(FLAGS.dev_sample_percentage * float(len(y)))
-x_train, x_dev = x_shuffled[:dev_sample_index], x_shuffled[dev_sample_index:]
-y_train, y_dev = y_shuffled[:dev_sample_index], y_shuffled[dev_sample_index:]
+#dev_sample_index = -1 * int(FLAGS.dev_sample_percentage * float(len(y)))
+#x_train, x_dev = x_shuffled[:dev_sample_index], x_shuffled[dev_sample_index:]
+#y_train, y_dev = y_shuffled[:dev_sample_index], y_shuffled[dev_sample_index:]
 print("Vocabulary Size: {:d}".format(len(vocab_processor.vocabulary_)))
-print("Train/Dev split: {:d}/{:d}".format(len(y_train), len(y_dev)))
-print("Number of classes ", y_train.shape[1])
+#print("Train/Dev split: {:d}/{:d}".format(len(y_train), len(y_dev)))
+print("Number of classes ", y_train[0].shape[1])
 
 # Training
 # ==================================================
@@ -83,8 +100,8 @@ with tf.Graph().as_default():
     sess = tf.Session(config=session_conf)
     with sess.as_default():
         cnn = TextCNN(
-            sequence_length=x_train.shape[1],
-            num_classes=y_train.shape[1],
+            sequence_length=x_train[0].shape[1],
+            num_classes=y_train[0].shape[1],
             vocab_size=len(vocab_processor.vocabulary_),
             embedding_size=FLAGS.embedding_dim,
             filter_sizes=list(map(int, FLAGS.filter_sizes.split(","))),
@@ -152,8 +169,9 @@ with tf.Graph().as_default():
                 [train_op, global_step, train_summary_op, cnn.loss, cnn.accuracy, cnn.predictions, cnn.scores],
                 feed_dict)
             time_str = datetime.datetime.now().isoformat()
-            print("{}: step {}, loss {:g}, acc {:g}".format(time_str, step, loss, accuracy))
-            print('predictions for this batch:', predictions)
+            if step % FLAGS.evaluate_every == 0:
+                print("{}: step {}, loss {:g}, acc {:g}".format(time_str, step, loss, accuracy))
+                print('predictions for this batch:', predictions)
             train_summary_writer.add_summary(summaries, step)
 
         def dev_step(x_batch, y_batch, writer=None):
@@ -173,18 +191,21 @@ with tf.Graph().as_default():
             if writer:
                 writer.add_summary(summaries, step)
 
-        # Generate batches
-        batches = data_helpers.batch_iter(
-            list(zip(x_train, y_train)), FLAGS.batch_size, FLAGS.num_epochs)
-        # Training loop. For each batch...
-        for batch in batches:
-            x_batch, y_batch = zip(*batch)
-            train_step(x_batch, y_batch)
-            current_step = tf.train.global_step(sess, global_step)
-            if current_step % FLAGS.evaluate_every == 0:
-                print("\nEvaluation:")
-                dev_step(x_dev, y_dev, writer=dev_summary_writer)
-                print("")
-            if current_step % FLAGS.checkpoint_every == 0:
-                path = saver.save(sess, checkpoint_prefix, global_step=current_step)
-                print("Saved model checkpoint to {}\n".format(path))
+        print('K fold validation, a total of {} folds\n'.format(i))
+        for j in np.arange(0, i):
+            print('the {}th fold\n'.format(j+1))
+            # Generate batches
+            batches = data_helpers.batch_iter(
+                list(zip(x_train[j], y_train[j])), FLAGS.batch_size, FLAGS.num_epochs)
+            # Training loop. For each batch...
+            for batch in batches:
+                x_batch, y_batch = zip(*batch)
+                train_step(x_batch, y_batch)
+                current_step = tf.train.global_step(sess, global_step)
+                if current_step % FLAGS.evaluate_every == 0:
+                    print("\nEvaluation:")
+                    dev_step(x_dev[j], y_dev[j], writer=dev_summary_writer)
+                    print("")
+                if current_step % FLAGS.checkpoint_every == 0:
+                    path = saver.save(sess, checkpoint_prefix, global_step=current_step)
+                    print("Saved model checkpoint to {}\n".format(path))

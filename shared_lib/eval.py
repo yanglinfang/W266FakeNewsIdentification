@@ -38,7 +38,7 @@ if FLAGS.eval_train:
     x_raw, y_test = data_helpers.load_yahoo_data(FLAGS.label_used)
     y_test = np.argmax(y_test, axis=1)
 else:
-    x_raw, y_test = data_helpers.load_facebook_data()
+    x_raw, y_test = data_helpers.load_facebook_data(FLAGS.label_used)
 
 #else:
 #    x_raw = ["a masterpiece four years in the making", "everything is off."]

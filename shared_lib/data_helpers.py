@@ -51,6 +51,7 @@ def batch_iter(data, batch_size, num_epochs, shuffle=True):
     """
     data = np.array(data)
     data_size = len(data)
+    print('data length', data_size)
     num_batches_per_epoch = int((len(data)-1)/batch_size) + 1
     for epoch in range(num_epochs):
         # Shuffle the data at each epoch
@@ -86,20 +87,54 @@ def load_yahoo_data(label_used):
     texts = []
     targets = []
     for i in range(0, rows):
+        if i > 654:
+            continue
         labelStr = articleData[i][header.index(label_used)]
         if labelStr != '':
             texts.append(articleData[i][header.index('news article')])
             target = int(labelStr)
             labels = [[0,1]]
-            if target <= 2:
+            if target <= 3:
                 labels = [[1,0]]
             targets.append(labels)
     y = np.concatenate(targets, 0)
     return (texts, y)
 
+def load_facebook_data(label_used):
+    header = []
+    articleData = []
+    with open('./news.csv', 'rb') as f:
+        for line in f:
+            if len(header) == 0:
+                header = line.split('\t')
+            else:
+                articleData.append(line.split('\t'))
+    columns = len(header)
+    rows = len(articleData)
+    print 'Loaded rows: ', rows,'columns: ', columns
+    print 'Headers: ', header
+    print 'Using label: ', label_used
+    #print 'sample text: ', articleData[0][header.index('news article')]
+    #print 'sample label: ', articleData[0][header.index(label_used)]
+    
+    texts = []
+    targets = []
+    for i in range(0, rows):
+        if i <= 654: # use the remaining data as evaluation set. 3 articles
+            continue
+        labelStr = articleData[i][header.index(label_used)]
+        if labelStr != '':
+            texts.append(articleData[i][header.index('news article')])
+            target = int(labelStr)
+            labels = [1]
+            if target <= 3:
+                labels = [0]
+            targets.append(labels)
+#    y = np.concatenate(targets, 0)
+#    return (texts, y)
 
 # Load data from facebook dataset
-def load_facebook_data():
+#def load_facebook_data():
     articleData = []
     labelStrs = []
     with open('./text_and_labels.tsv', 'rb') as f:
@@ -109,8 +144,8 @@ def load_facebook_data():
     rows = len(articleData)
     print 'Loaded rows: ', rows,'columns: ', columns
     
-    texts = []
-    targets = []
+#    texts = []
+#    targets = []
     for i in range(0, rows):
         labelStr = articleData[i][1]
         if labelStr != '':
