@@ -1,0 +1,449 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  30 APR 2017 16:20
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**"W266 - Scalable Low Quality News Identification.tex"
+(./W266 - Scalable Low Quality News Identification.tex
+LaTeX2e <2016/03/31>
+Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (./acl2015.sty
+Conference Style for ACL 2015 -- released December 7, 2014
+\titlebox=\skip43
+) (/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/05/09 v1.0r Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/01/02 v1.10 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 96.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(./W266 - Scalable Low Quality News Identification.aux)
+\openout1 = `"W266 - Scalable Low Quality News Identification.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 44.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count88
+\scratchdimen=\dimen105
+\scratchbox=\box26
+\nofMPsegments=\count89
+\nofMParguments=\count90
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count91
+\MPscratchDim=\dimen106
+\MPnumerator=\count92
+\makeMPintoPDFobject=\count93
+\everyMPtoPDFconversion=\toks16
+) (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2016/05/10 v0.21 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 45.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 45.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 45.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 45.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 45.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 45.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 45.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+Underfull \hbox (badness 1874) in paragraph at lines 52--56
+[]\OT1/ptm/m/n/10.95 The eval-u-a-tion and ex-plo-ration pro-cess in-
+ []
+
+
+Underfull \hbox (badness 1454) in paragraph at lines 52--56
+\OT1/ptm/m/n/10.95 volved gath-er-ing many Face-book ar-ti-cles that
+ []
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 61.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 62.
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
+$\OT1/pcr/m/n/10.95 https : / / www . kaggle . com / mrisdal /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
+
+ []
+
+[1{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+$\OT1/pcr/m/n/10.95 https : / / github . com / BuzzFeedNews /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+
+ []
+
+<Dimensions.png, id=10, 355.3275pt x 285.065pt>
+File: Dimensions.png Graphic file (type png)
+ <use Dimensions.png>
+Package pdftex.def Info: Dimensions.png used on input line 81.
+(pdftex.def)             Requested size: 213.19814pt x 171.04031pt.
+
+Underfull \vbox (badness 2564) has occurred while \output is active []
+
+
+<BuzzFeedRatings.jpg, id=12, 993.7125pt x 749.80125pt>
+File: BuzzFeedRatings.jpg Graphic file (type jpg)
+
+<use BuzzFeedRatings.jpg>
+Package pdftex.def Info: BuzzFeedRatings.jpg used on input line 88.
+(pdftex.def)             Requested size: 198.73897pt x 149.9576pt.
+ <PageVeracity.jpg, id=13, 993.7125pt x 1089.06876pt>
+File: PageVeracity.jpg Graphic file (type jpg)
+
+<use PageVeracity.jpg>
+Package pdftex.def Info: PageVeracity.jpg used on input line 92.
+(pdftex.def)             Requested size: 198.73897pt x 217.80989pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2 <./Dimensions.png> <./BuzzFeedRatings.jpg>]
+<Engagement.jpg, id=18, 722.7pt x 915.42pt>
+File: Engagement.jpg Graphic file (type jpg)
+ <use Engagement.jpg>
+Package pdftex.def Info: Engagement.jpg used on input line 96.
+(pdftex.def)             Requested size: 144.53743pt x 183.08075pt.
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no ™ in font ptmr7t!
+
+Overfull \hbox (36.75475pt too wide) in paragraph at lines 108--128
+ [] 
+ []
+
+<Training.png, id=19, 409.53pt x 253.94875pt>
+File: Training.png Graphic file (type png)
+ <use Training.png>
+Package pdftex.def Info: Training.png used on input line 140.
+(pdftex.def)             Requested size: 204.7645pt x 126.97406pt.
+
+Underfull \vbox (badness 5274) has occurred while \output is active []
+
+ [3 <./PageVeracity.jpg> <./Engagement.jpg>]
+<Results.png, id=23, 442.65375pt x 257.96375pt>
+File: Results.png Graphic file (type png)
+ <use Results.png>
+Package pdftex.def Info: Results.png used on input line 145.
+(pdftex.def)             Requested size: 221.32632pt x 128.98155pt.
+
+Overfull \hbox (2.2402pt too wide) in paragraph at lines 145--146
+ [] 
+ []
+
+
+Underfull \hbox (badness 1400) in paragraph at lines 156--157
+\OT1/ptm/m/n/10.95 been widely used for model bench-mark, and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--162
+[]$\OT1/pcr/m/n/10.95 http : / / fortune . com / 2017 / 04 / 05 /
+ []
+
+
+Overfull \hbox (75.18361pt too wide) in paragraph at lines 161--162
+\OT1/pcr/m/n/10.95 ebay-[]pierre-[]omidyar-[]100m-[]fight-[]fake-[]news/$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 162--163
+[]$\OT1/pcr/m/n/10.95 http : / / bigstory .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 162--163
+\OT1/pcr/m/n/10.95 ap . org / article /
+ []
+
+
+Overfull \hbox (19.62367pt too wide) in paragraph at lines 162--163
+\OT1/pcr/m/n/10.95 d5b1763ae5ad463ba8bc4fff5fa23816 /
+ []
+
+
+Overfull \hbox (128.74355pt too wide) in paragraph at lines 162--163
+\OT1/pcr/m/n/10.95 9-[]eu-[]nato-[]nations-[]set-[]center-[]fight-[]hybrid-[]th
+reats$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--164
+[]$\OT1/pcr/m/n/10.95 http : / / www . snopes . com /
+ []
+
+
+Overfull \hbox (200.51346pt too wide) in paragraph at lines 163--164
+\OT1/pcr/m/n/10.95 obama-[]signs-[]christmas-[]bill-[]making-[]alternative-[]me
+dia-[]illegal/$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
+[]$\OT1/pcr/m/n/10.95 http : / / www . cnbc .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
+\OT1/pcr/m/n/10.95 com / 2017 / 04 / 27 /
+ []
+
+
+Overfull \hbox (35.26366pt too wide) in paragraph at lines 164--165
+\OT1/pcr/m/n/10.95 facebook-[]to-[]fight-[]fake-[]news-[]groups .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--166
+[]$\OT1/pcr/m/n/10.95 https : / / github .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--166
+\OT1/pcr/m/n/10.95 com / BuzzFeedNews /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--167
+[]$\OT1/pcr/m/n/10.95 http : / / aclweb . org / anthology / P /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--168
+[]$\OT1/pcr/m/n/10.95 https : / / www . researchgate .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--168
+\OT1/pcr/m/n/10.95 net / profile / Victoria _ Rubin /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--168
+\OT1/pcr/m/n/10.95 publication / 281818851 _
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--168
+\OT1/pcr/m/n/10.95 Deception _ Detection _ for _ News _
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--168
+\OT1/pcr/m/n/10.95 Three _ Types _ of _ Fakes / links /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--169
+[]$\OT1/pcr/m/n/10.95 https : / / pdfs .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--169
+\OT1/pcr/m/n/10.95 semanticscholar . org / b112 /
+ []
+
+
+Overfull \hbox (45.90364pt too wide) in paragraph at lines 168--169
+\OT1/pcr/m/n/10.95 1655f0858ba38226a4dd614e84cb86c2a8a6 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--170
+[]$\OT1/pcr/m/n/10.95 http : / / ethesis . nitrkl . ac . in /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--171
+[]$\OT1/pcr/m/n/10.95 http : / / www . aclweb . org /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--172
+[]$\OT1/pcr/m/n/10.95 http : / / www . journalism . org /
+ []
+
+[4 <./Training.png> <./Results.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 172--173
+[]$\OT1/pcr/m/n/10.95 https : / / www . kaggle . com /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 173--174
+[]$\OT1/pcr/m/n/10.95 http : / / novasearch . org /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--175
+[]$\OT1/pcr/m/n/10.95 http : / / www . wildml . com / 2015 / 12 /
+ []
+
+
+Overfull \hbox (180.80348pt too wide) in paragraph at lines 174--175
+\OT1/pcr/m/n/10.95 implementing-[]a-[]cnn-[]for-[]text-[]classification-[]in-[]
+tensorflow/$ 
+ []
+
+[5
+
+] (./W266 - Scalable Low Quality News Identification.aux) ) 
+Here is how much of TeX's memory you used:
+ 1731 strings out of 493014
+ 25458 string characters out of 6133351
+ 87497 words of memory out of 5000000
+ 5242 multiletter control sequences out of 15000+600000
+ 18985 words of font info for 47 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 37i,9n,23p,772b,256s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/
+2016/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2016/texmf-dist
+/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/t
+ype1/urw/times/utmb8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/t
+imes/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/times/utmri
+8a.pfb>
+Output written on "W266 - Scalable Low Quality News Identification.pdf" (5 page
+s, 585598 bytes).
+PDF statistics:
+ 47 PDF objects out of 1000 (max. 8388607)
+ 26 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+
